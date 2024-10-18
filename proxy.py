@@ -1,14 +1,14 @@
-class proxy:
+class Proxy:
 
-    def __init__(self, id, name, online, battery_level):
-        self.id = id
-        self.online = online
-        self.btr = battery_level
-        self.region, self.name = self.getRegionName(name)
+    def __init__(self, line):
+        self.id = line['id']
+        self.online = line['online']
+        self.btr = line['deviceMetrics']['batteryLevel']
+        self.region, self.name = self.getRegionName(line['name'])
 
     def getRegionName(self, name):
         lst = name.split(" ")
-        return lst[0], lst[1]
+        return " ".join(lst[:-1]), lst[-1]
     
     def printInfos(self):
         print(f'Device ID: {self.id}')

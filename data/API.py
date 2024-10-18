@@ -28,7 +28,7 @@ def storeData(data):
         json_data = None
 
     if json_data:
-        with open('data.json', 'w') as json_file:
+        with open('data/data.json', 'w') as json_file:
             json.dump(json_data, json_file, indent=4)
 
 def run():

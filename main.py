@@ -1,28 +1,55 @@
 import json
-import proxy
+import time
+from datetime import datetime
+from proxy import Proxy
+from data.API import run
 
 proxies = []
-failed = []
+failed = {}
 sender = []
 
-with open('data.json', 'r') as f:
-    file = json.load(f)
+if __name__ == "__main__":
+    while True:
 
-for line in file:
-    proxies.append(proxy.proxy(line['id'], line['name'], line['online'], line['deviceMetrics']['batteryLevel']))
-iter = 0
-for p in proxies:
-    print(f"Proxy: {iter}")
-    p.printInfos()
-    iter += 1
+        # Obtém a lista de proxies e insere cada um no objeto gerenciador de proxies
+        proxies = []
+        sender = []
+        run()
+        with open('data/data.json', 'r') as f:
+            data = json.load(f)
+        proxies = [Proxy(line) for line in data]  
 
-# If a online proxy finds itself on a failed list, remove it from the failed list
-# Get its ip, if the filter fails, that specifc proxy is saved as failed
-# If the failed proxy is in the failed list, ignores
-# Else stores it on the senders list
-# Goes one by one on the senders list
-# Get its name (It will determinate the group and the proxy itself) 
-# Send a message like "Proxy sma 01 está offline"
-# Resets the proxies list (keeps stored the failed list)
-# Resets the senders list
-# Waits 5 minutes
+
+        # Reseta a lista de falhas se um proxy falhado voltar a ficar online
+        for proxy in proxies:
+            if proxy.id in failed and proxy.online:
+                timeStamp = datetime.now().strftime("%H:%M:%S")
+                with open('log.txt', 'a') as log:
+                    log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} turned on at {timeStamp}\n')
+                del failed[proxy.id]  
+
+        # Insere novos proxies falhados na lista de falhas
+        for proxy in proxies:
+            if not proxy.online:
+                if proxy.id not in failed:
+                    failed[proxy.id] = {'count': 1}
+                else:
+                    failed[proxy.id]['count'] += 1
+
+                if failed[proxy.id]['count'] >= 2:
+                    sender.append(proxy)
+                    failed[proxy.id]['count'] = 0
+
+                # Registra no log o proxy que falhou
+                timeStamp = datetime.now().strftime("%H:%M:%S")
+                with open('log.txt', 'a') as log:
+                    log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} failed at {timeStamp}\n')
+        
+        # Envia a mensagem sobre o proxy falhado
+        for proxy in sender:
+            message = f'O proxy {proxy.region} {proxy.name} está offline!'
+            group = proxy.region
+            print(message)
+
+            # Bot.send(group, message)  
+        time.sleep(60)
