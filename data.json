@@ -1,0 +1,3155 @@
+[
+    {
+        "id": "PpAJ7Mw1sC",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1728227357511,
+        "updatedTimestamp": 1729253449879,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 08",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 25,
+            "isCharging": false,
+            "batteryVoltage": 3746,
+            "batteryTemperature": 34,
+            "memory": {
+                "total": 3579,
+                "available": 1024,
+                "isLow": false,
+                "heapFree": 13,
+                "heapMax": 512,
+                "heapTotal": 32
+            },
+            "trafficCounters": {
+                "trafficSimTx": 2552949580,
+                "trafficSimRx": 686675730,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 3245074144,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253449852
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 05.11.2024",
+            "expirationTimestamp": 1730819369903,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/PpAJ7Mw1sC/7511",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/PpAJ7Mw1sC/xH7TGKYM53GRY6KN69MFA"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.25.112.118"
+    },
+    {
+        "id": "ZqWFTlYqPH",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1728227331299,
+        "updatedTimestamp": 1729253460247,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 07",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 30,
+            "isCharging": true,
+            "batteryVoltage": 3899,
+            "batteryTemperature": 35,
+            "memory": {
+                "total": 3579,
+                "available": 1340,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 609992256,
+                "trafficSimRx": 169018280,
+                "trafficWifiTx": 2830064,
+                "trafficWifiRx": 200100,
+                "trafficSimSum": 780590208,
+                "trafficWifiSum": 3028992
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253460245
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 05.11.2024",
+            "expirationTimestamp": 1730819342562,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/ZqWFTlYqPH/1299",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/ZqWFTlYqPH/x4SC57E755EYP87FW5V6G"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "179.224.177.207"
+    },
+    {
+        "id": "CKAxE6C6FB",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1728227282036,
+        "updatedTimestamp": 1729253468708,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 06",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "UMTS",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 72,
+            "isCharging": false,
+            "batteryVoltage": 4037,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3579,
+                "available": 1236,
+                "isLow": false,
+                "heapFree": 0,
+                "heapMax": 512,
+                "heapTotal": 21
+            },
+            "trafficCounters": {
+                "trafficSimTx": 83397854,
+                "trafficSimRx": 20683942,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 104107136,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253468706
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 05.11.2024",
+            "expirationTimestamp": 1730819289048,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/CKAxE6C6FB/2036",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/CKAxE6C6FB/x4HWR6WNWXRE3NVK9B7A3"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.25.113.4"
+    },
+    {
+        "id": "iI9brdJCWf",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1728227183242,
+        "updatedTimestamp": 1729253419899,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 05",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 99,
+            "isCharging": false,
+            "batteryVoltage": 4305,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3579,
+                "available": 1136,
+                "isLow": false,
+                "heapFree": 6,
+                "heapMax": 512,
+                "heapTotal": 21
+            },
+            "trafficCounters": {
+                "trafficSimTx": 118638888,
+                "trafficSimRx": 25646936,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 144348448,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253419897
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 05.11.2024",
+            "expirationTimestamp": 1730819265039,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/iI9brdJCWf/3242",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/iI9brdJCWf/xT3H9K8884YPSMX8B5WT5"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "179.224.186.40"
+    },
+    {
+        "id": "lwMc6u4Qm8",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1728227074707,
+        "updatedTimestamp": 1729253526232,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 04",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (MOBILE)",
+                "5G (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 52,
+            "isCharging": true,
+            "batteryVoltage": 3975,
+            "batteryTemperature": 36,
+            "memory": {
+                "total": 3579,
+                "available": 1416,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 17
+            },
+            "trafficCounters": {
+                "trafficSimTx": 18390990,
+                "trafficSimRx": 1165362,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 19556352,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253526229
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 05.11.2024",
+            "expirationTimestamp": 1730819085185,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/lwMc6u4Qm8/4707",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/lwMc6u4Qm8/xSAR3WXA9584V7M9NBEPP"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.25.118.1"
+    },
+    {
+        "id": "rQ8id1x21B",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727995074241,
+        "updatedTimestamp": 1729253499095,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "RECIFE 07",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A155M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4343,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3638,
+                "available": 1305,
+                "isLow": false,
+                "heapFree": 6,
+                "heapMax": 512,
+                "heapTotal": 25
+            },
+            "trafficCounters": {
+                "trafficSimTx": 1781307762,
+                "trafficSimRx": 415788744,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 2201085120,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253499093
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730587081836,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/rQ8id1x21B/4241",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/rQ8id1x21B/x6KM6YT7F9P6R3FHSEVVM"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.235.176"
+    },
+    {
+        "id": "8a37RGpKtP",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727995054991,
+        "updatedTimestamp": 1729253415868,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "RECIFE 06",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A155M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4339,
+            "batteryTemperature": 32,
+            "memory": {
+                "total": 3638,
+                "available": 1442,
+                "isLow": false,
+                "heapFree": 5,
+                "heapMax": 512,
+                "heapTotal": 26
+            },
+            "trafficCounters": {
+                "trafficSimTx": 2040376598,
+                "trafficSimRx": 479013498,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 2524663808,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253415866
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730587063208,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/8a37RGpKtP/4991",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/8a37RGpKtP/xS9E967YECYA938MPCWS7"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.232.59"
+    },
+    {
+        "id": "OtQOpO2ZAb",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727995030432,
+        "updatedTimestamp": 1729253460055,
+        "isRoot": false,
+        "appVersion": "551",
+        "name": "RECIFE 05",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A155M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 76,
+            "isCharging": false,
+            "batteryVoltage": 4061,
+            "batteryTemperature": 32,
+            "memory": {
+                "total": 3638,
+                "available": 1390,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 18
+            },
+            "trafficCounters": {
+                "trafficSimTx": 60547470,
+                "trafficSimRx": 3835506,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 64382976,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253460053
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730587044846,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/OtQOpO2ZAb/0432",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/OtQOpO2ZAb/x65CVPR8HPAB8PK9HC7G6"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.229.57"
+    },
+    {
+        "id": "Be31dcIgCo",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923843307,
+        "updatedTimestamp": 1729253417015,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 10",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 97,
+            "isCharging": false,
+            "batteryVoltage": 4359,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1251,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 42425800,
+                "trafficSimRx": 2687544,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 45113344,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253417013
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515849282,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/Be31dcIgCo/3307",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/Be31dcIgCo/x87NFEVYBMVE8K9BV5T5G"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "189.40.75.27"
+    },
+    {
+        "id": "9439jXPiiQ",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923826410,
+        "updatedTimestamp": 1729253456704,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 09",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 75,
+            "isCharging": false,
+            "batteryVoltage": 4114,
+            "batteryTemperature": 28,
+            "memory": {
+                "total": 3479,
+                "available": 1157,
+                "isLow": false,
+                "heapFree": 2,
+                "heapMax": 512,
+                "heapTotal": 16
+            },
+            "trafficCounters": {
+                "trafficSimTx": 14666426,
+                "trafficSimRx": 929094,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 15595520,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253456701
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515831846,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/9439jXPiiQ/6410",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/9439jXPiiQ/x5MHVN86EXHNPWKR6EBBC"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.96.151"
+    },
+    {
+        "id": "15Ame8aUrh",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923799254,
+        "updatedTimestamp": 1729253512340,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 08",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (MOBILE)",
+                "5G (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 75,
+            "isCharging": false,
+            "batteryVoltage": 4106,
+            "batteryTemperature": 30,
+            "memory": {
+                "total": 3479,
+                "available": 1228,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 25
+            },
+            "trafficCounters": {
+                "trafficSimTx": 106134028,
+                "trafficSimRx": 6723060,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 112857088,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253512337
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515805645,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/15Ame8aUrh/9254",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/15Ame8aUrh/xPTS6GVMA8YWSAWKKR9Y5"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.96.80"
+    },
+    {
+        "id": "UruaCU4D1C",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923757937,
+        "updatedTimestamp": 1729253527585,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 07",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 96,
+            "isCharging": false,
+            "batteryVoltage": 4360,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1318,
+                "isLow": false,
+                "heapFree": 9,
+                "heapMax": 512,
+                "heapTotal": 26
+            },
+            "trafficCounters": {
+                "trafficSimTx": 897364650,
+                "trafficSimRx": 259804130,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1158358304,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253527584
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515786440,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/UruaCU4D1C/7937",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/UruaCU4D1C/xTFMC84KYR88HBAE57YNF"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "189.40.73.118"
+    },
+    {
+        "id": "WFo3zTBoZi",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923735457,
+        "updatedTimestamp": 1729253428471,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 06",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 58,
+            "isCharging": false,
+            "batteryVoltage": 3926,
+            "batteryTemperature": 30,
+            "memory": {
+                "total": 3479,
+                "available": 1335,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 25
+            },
+            "trafficCounters": {
+                "trafficSimTx": 15579158,
+                "trafficSimRx": 987114,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 16566272,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253428468
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515742821,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/WFo3zTBoZi/5457",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/WFo3zTBoZi/xCRWEHVETM7C4AMMFNTEW"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.95.4"
+    },
+    {
+        "id": "awLbXCX8RE",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923704667,
+        "updatedTimestamp": 1729253510789,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 05",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (VPN)",
+                "LTE+ (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 96,
+            "isCharging": false,
+            "batteryVoltage": 4342,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1158,
+                "isLow": false,
+                "heapFree": 0,
+                "heapMax": 512,
+                "heapTotal": 30
+            },
+            "trafficCounters": {
+                "trafficSimTx": 8303640384,
+                "trafficSimRx": 1601963426,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 9906761120,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253510788
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515719126,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/awLbXCX8RE/4667",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/awLbXCX8RE/x3AR5EP9VGVNK5E7EMFHR"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.92.235"
+    },
+    {
+        "id": "q7Ral6Sqhc",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923627511,
+        "updatedTimestamp": 1729253521651,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 04",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 75,
+            "isCharging": false,
+            "batteryVoltage": 4098,
+            "batteryTemperature": 29,
+            "memory": {
+                "total": 3479,
+                "available": 1176,
+                "isLow": false,
+                "heapFree": 0,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 1164639310,
+                "trafficSimRx": 384610900,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1549962944,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253521650
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515670155,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/q7Ral6Sqhc/7511",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/q7Ral6Sqhc/xFX6V75ACTXHRHTCSBAKA"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.90.174"
+    },
+    {
+        "id": "CnPnTCWv9P",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727923339910,
+        "updatedTimestamp": 1729253430795,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 03 ",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 96,
+            "isCharging": false,
+            "batteryVoltage": 4358,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1194,
+                "isLow": false,
+                "heapFree": 2,
+                "heapMax": 512,
+                "heapTotal": 20
+            },
+            "trafficCounters": {
+                "trafficSimTx": 70989534,
+                "trafficSimRx": 9803980,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 80964256,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253430793
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730515353110,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "8spoXJ5gnz",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/CnPnTCWv9P/9910",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/CnPnTCWv9P/xWXT88EHTN5VEH8MCYSW3"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.96.236"
+    },
+    {
+        "id": "H4HfGN8MAb",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727921932121,
+        "updatedTimestamp": 1729253510432,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 02 [48996027536]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (VPN)",
+                "LTE+ (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 74,
+            "isCharging": false,
+            "batteryVoltage": 4098,
+            "batteryTemperature": 28,
+            "memory": {
+                "total": 3479,
+                "available": 1087,
+                "isLow": false,
+                "heapFree": 10,
+                "heapMax": 512,
+                "heapTotal": 30
+            },
+            "trafficCounters": {
+                "trafficSimTx": 1322090894,
+                "trafficSimRx": 253439528,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1576621568,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253510430
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730513970016,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "8spoXJ5gnz",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/H4HfGN8MAb/2121",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/H4HfGN8MAb/x8R8HVVTXSK9K53HC8RNP"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.91.220"
+    },
+    {
+        "id": "DRfEx6CGAk",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727921892864,
+        "updatedTimestamp": 1729253476775,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "LAGUNA 01 [48996026337]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 97,
+            "isCharging": false,
+            "batteryVoltage": 4366,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1115,
+                "isLow": false,
+                "heapFree": 7,
+                "heapMax": 512,
+                "heapTotal": 25
+            },
+            "trafficCounters": {
+                "trafficSimTx": 2384095740,
+                "trafficSimRx": 484418390,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 2870700096,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253476774
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 02.11.2024",
+            "expirationTimestamp": 1730513918594,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "8spoXJ5gnz",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/DRfEx6CGAk/2864",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/DRfEx6CGAk/x3EF38A66NXW9EXPCKW9X"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.90.227"
+    },
+    {
+        "id": "q7nPdtZtCZ",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314829616,
+        "updatedTimestamp": 1729253504884,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 10 [55992258960]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4416,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1312,
+                "isLow": false,
+                "heapFree": 0,
+                "heapMax": 512,
+                "heapTotal": 23
+            },
+            "trafficCounters": {
+                "trafficSimTx": 393753434,
+                "trafficSimRx": 74552526,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 468393696,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253504882
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906837055,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/q7nPdtZtCZ/9616",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/q7nPdtZtCZ/x9VMMAEGMRTY9ENRV4T97"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.34.69"
+    },
+    {
+        "id": "xMBP8AqCOb",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314742041,
+        "updatedTimestamp": 1729253486155,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 09 [55992283157]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4418,
+            "batteryTemperature": 24,
+            "memory": {
+                "total": 3479,
+                "available": 1253,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 19
+            },
+            "trafficCounters": {
+                "trafficSimTx": 17561012,
+                "trafficSimRx": 1112652,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 18673664,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253486153
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906768793,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/xMBP8AqCOb/2041",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/xMBP8AqCOb/xV6659YN86MM75NP7GPFW"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.37.206"
+    },
+    {
+        "id": "e0M4LTNSGp",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314697323,
+        "updatedTimestamp": 1729253504870,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 08 [55992220075]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4421,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1383,
+                "isLow": false,
+                "heapFree": 9,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 1179537938,
+                "trafficSimRx": 279238592,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1459278080,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253504869
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906709543,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/e0M4LTNSGp/7323",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/e0M4LTNSGp/x4KXCCMVAXS5HPHYYCY4C"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "189.40.72.118"
+    },
+    {
+        "id": "FErB9jaCuq",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314570076,
+        "updatedTimestamp": 1729253493566,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 07 [55992330984]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "HSPA",
+            "networkTypes": [
+                "VPN",
+                "3G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4418,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3479,
+                "available": 1214,
+                "isLow": false,
+                "heapFree": 2,
+                "heapMax": 512,
+                "heapTotal": 23
+            },
+            "trafficCounters": {
+                "trafficSimTx": 356031458,
+                "trafficSimRx": 92598070,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 448737792,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253493564
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906586896,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/FErB9jaCuq/0076",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/FErB9jaCuq/xA88C9NS3CVHRE77EW3WF"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.28.251"
+    },
+    {
+        "id": "qtCFPT4Sum",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314434528,
+        "updatedTimestamp": 1729253515513,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 06 [55992247101]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4418,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1321,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 716731038,
+                "trafficSimRx": 144704220,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 862093376,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253515510
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906446613,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/qtCFPT4Sum/4528",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/qtCFPT4Sum/xRW69PH5BP5NB4FVMBKS5"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.37.83"
+    },
+    {
+        "id": "MGC9jmWesT",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314337290,
+        "updatedTimestamp": 1729253497054,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 05 [55992292983]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4409,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1430,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 23
+            },
+            "trafficCounters": {
+                "trafficSimTx": 624988600,
+                "trafficSimRx": 94752286,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 721331104,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253497053
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906348350,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/MGC9jmWesT/7290",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/MGC9jmWesT/xPVWSFPR6MCCYMFX9SYWH"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.36.189"
+    },
+    {
+        "id": "CwBFM15kIc",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727314257256,
+        "updatedTimestamp": 1729253446155,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 04 [55992219044]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "HSPA",
+            "networkTypes": [
+                "VPN",
+                "3G (MOBILE)",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4422,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1293,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 23
+            },
+            "trafficCounters": {
+                "trafficSimTx": 524852378,
+                "trafficSimRx": 97853770,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 622905888,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253446151
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729906266899,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/CwBFM15kIc/7256",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/CwBFM15kIc/x766HBXVWMNK4RGYRGFNW"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.32.10"
+    },
+    {
+        "id": "JGi7C2P5EK",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727313327049,
+        "updatedTimestamp": 1729253471812,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 03 [55992250544]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4418,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1278,
+                "isLow": false,
+                "heapFree": 4,
+                "heapMax": 512,
+                "heapTotal": 21
+            },
+            "trafficCounters": {
+                "trafficSimTx": 38859530,
+                "trafficSimRx": 10959062,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 49818592,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253471811
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729905337573,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "8spoXJ5gnz",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/JGi7C2P5EK/7049",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/JGi7C2P5EK/x66CBEXY769XB96C6A55H"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.33.19"
+    },
+    {
+        "id": "dED69WAwSo",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727312749127,
+        "updatedTimestamp": 1729253496111,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 02 [55992276176]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4419,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1169,
+                "isLow": false,
+                "heapFree": 5,
+                "heapMax": 512,
+                "heapTotal": 22
+            },
+            "trafficCounters": {
+                "trafficSimTx": 2156129322,
+                "trafficSimRx": 392663654,
+                "trafficWifiTx": 3074172,
+                "trafficWifiRx": 423716,
+                "trafficSimSum": 2550529888,
+                "trafficWifiSum": 3497888
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253496109
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729904754976,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "8spoXJ5gnz",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/dED69WAwSo/9127",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/dED69WAwSo/xT8SHERXX8FRBPB5MCP5F"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "181.77.30.80"
+    },
+    {
+        "id": "u8Q1MpJYR7",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727312203623,
+        "updatedTimestamp": 1729253518614,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "STA MARIA 01 [55992268291]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4418,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3479,
+                "available": 1257,
+                "isLow": false,
+                "heapFree": 4,
+                "heapMax": 512,
+                "heapTotal": 18
+            },
+            "trafficCounters": {
+                "trafficSimTx": 17659046,
+                "trafficSimRx": 1119066,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 18778112,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253518612
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729904468787,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "8spoXJ5gnz",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/u8Q1MpJYR7/3623",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/u8Q1MpJYR7/xGCMK3KKAGSECVS8P6WPT"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "191.38.220.177"
+    },
+    {
+        "id": "uhTx8XDzNi",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727147125062,
+        "updatedTimestamp": 1729253429719,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 10 [45999163356]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "HSDPA",
+            "networkTypes": [
+                "VPN",
+                "3G (MOBILE)",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4426,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3479,
+                "available": 1268,
+                "isLow": false,
+                "heapFree": 9,
+                "heapMax": 512,
+                "heapTotal": 26
+            },
+            "trafficCounters": {
+                "trafficSimTx": 453944668,
+                "trafficSimRx": 111144110,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 565112000,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253429718
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 24.10.2024",
+            "expirationTimestamp": 1729739325734,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/uhTx8XDzNi/5062",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/uhTx8XDzNi/xXAF67AKXA4AMASRPW388"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.204.189"
+    },
+    {
+        "id": "skNe1C8Gj5",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727124875940,
+        "updatedTimestamp": 1729253419914,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "CORN\u00c9LIO 05",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 72,
+            "isCharging": false,
+            "batteryVoltage": 4018,
+            "batteryTemperature": 24,
+            "memory": {
+                "total": 3579,
+                "available": 1209,
+                "isLow": false,
+                "heapFree": 11,
+                "heapMax": 512,
+                "heapTotal": 32
+            },
+            "trafficCounters": {
+                "trafficSimTx": 849386092,
+                "trafficSimRx": 359209674,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1209292704,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "TIMBRASIL",
+            "latestDeviceMetricsTimestamp": 1729253419912
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 23.10.2024",
+            "expirationTimestamp": 1729716885930,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/skNe1C8Gj5/5940",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/skNe1C8Gj5/xYRMEBA9SPCKHPFNN6S86"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.127.112"
+    },
+    {
+        "id": "fhSswd4Lvu",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727124732249,
+        "updatedTimestamp": 1729253468737,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "CORN\u00c9LIO 04",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 71,
+            "isCharging": false,
+            "batteryVoltage": 4023,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3579,
+                "available": 1534,
+                "isLow": false,
+                "heapFree": 10,
+                "heapMax": 512,
+                "heapTotal": 26
+            },
+            "trafficCounters": {
+                "trafficSimTx": 2552439386,
+                "trafficSimRx": 604969948,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 3164218688,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "TIMBRASIL",
+            "latestDeviceMetricsTimestamp": 1729253468736
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 23.10.2024",
+            "expirationTimestamp": 1729716811814,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/fhSswd4Lvu/2249",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/fhSswd4Lvu/xYASC8RWFKKNV9NW4BARY"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.122.80"
+    },
+    {
+        "id": "ZbVQuhZZPn",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1727124257597,
+        "updatedTimestamp": 1729253413773,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "CORN\u00c9LIO 03",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 50,
+            "isCharging": false,
+            "batteryVoltage": 3832,
+            "batteryTemperature": 26,
+            "memory": {
+                "total": 3579,
+                "available": 1430,
+                "isLow": false,
+                "heapFree": 15,
+                "heapMax": 512,
+                "heapTotal": 33
+            },
+            "trafficCounters": {
+                "trafficSimTx": 3494747234,
+                "trafficSimRx": 683152202,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 4181838592,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "TIMBRASIL",
+            "latestDeviceMetricsTimestamp": 1729253413772
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 23.10.2024",
+            "expirationTimestamp": 1729716708192,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/ZbVQuhZZPn/7597",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/ZbVQuhZZPn/x3K6PXY6HN4M78XBF85PX"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.121.51"
+    },
+    {
+        "id": "1jizufm7SU",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1723836986953,
+        "updatedTimestamp": 1729128018262,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 09 [45999674069]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4422,
+            "batteryTemperature": 29,
+            "memory": {
+                "total": 3479,
+                "available": 1006,
+                "isLow": false,
+                "heapFree": 13,
+                "heapMax": 512,
+                "heapTotal": 29
+            },
+            "trafficCounters": {
+                "trafficSimTx": 5613189964,
+                "trafficSimRx": 1555236892,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 7171668320,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729128018261
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 14.12.2024",
+            "expirationTimestamp": 1734206828057,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "2oIdAGYhBa",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/1jizufm7SU/6953",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/1jizufm7SU/x9RK9EMVPARMY3KR6YYAH"
+        ],
+        "fingerprint": "none",
+        "online": false,
+        "externalIp": "189.40.70.245"
+    },
+    {
+        "id": "gz5mePhQBj",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1723595491643,
+        "updatedTimestamp": 1729253420155,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "RECIFE 04",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A256E",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 25,
+            "isCharging": false,
+            "batteryVoltage": 3748,
+            "batteryTemperature": 33,
+            "memory": {
+                "total": 7398,
+                "available": 4144,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 23
+            },
+            "trafficCounters": {
+                "trafficSimTx": 742609388,
+                "trafficSimRx": 339230022,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1082212064,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253420153
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 12.11.2024",
+            "expirationTimestamp": 1731372727469,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "2oIdAGYhBa",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/gz5mePhQBj/1643",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/gz5mePhQBj/xF4TB7WEE4REBSXX43HPY"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.225.228"
+    },
+    {
+        "id": "JllxemcEGs",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1723595334948,
+        "updatedTimestamp": 1729253286333,
+        "isRoot": false,
+        "appVersion": "552",
+        "name": "RECIFE 03",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A256E",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4424,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 7392,
+                "available": 4049,
+                "isLow": false,
+                "heapFree": 10,
+                "heapMax": 512,
+                "heapTotal": 22
+            },
+            "trafficCounters": {
+                "trafficSimTx": 630388024,
+                "trafficSimRx": 170191350,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 800879296,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253286329
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 12.11.2024",
+            "expirationTimestamp": 1731372727253,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "2oIdAGYhBa",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/JllxemcEGs/4948",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/JllxemcEGs/xYGEPGT97K7YXC5BPKSGN"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.233.199"
+    },
+    {
+        "id": "8X0MYA4Zyc",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1722904933698,
+        "updatedTimestamp": 1729253463201,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 08 [45999822763]",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-G990E",
+        "deviceMetrics": {
+            "networkType": "WIFI",
+            "networkTypes": [
+                "WIFI",
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 24,
+            "isCharging": false,
+            "batteryVoltage": 3730,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 5289,
+                "available": 2161,
+                "isLow": false,
+                "heapFree": 6,
+                "heapMax": 512,
+                "heapTotal": 13
+            },
+            "trafficCounters": {
+                "trafficSimTx": 0,
+                "trafficSimRx": 0,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 0,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "TIMBRASIL",
+            "latestDeviceMetricsTimestamp": 1729253463199
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 04.11.2024",
+            "expirationTimestamp": 1730682214866,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "2oIdAGYhBa",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/8X0MYA4Zyc/3698",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/8X0MYA4Zyc/xY7GN9EMMXVGH74C4F9S9"
+        ],
+        "fingerprint": "none",
+        "online": false,
+        "externalIp": "177.220.183.1"
+    },
+    {
+        "id": "ru5H8naU8T",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1718659173115,
+        "updatedTimestamp": 1729253470772,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 07 [45998249498]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4424,
+            "batteryTemperature": 28,
+            "memory": {
+                "total": 3479,
+                "available": 1135,
+                "isLow": false,
+                "heapFree": 4,
+                "heapMax": 512,
+                "heapTotal": 16
+            },
+            "trafficCounters": {
+                "trafficSimTx": 2779218,
+                "trafficSimRx": 176046,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 2955264,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253470770
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 14.11.2024",
+            "expirationTimestamp": 1731620611579,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "MDjjtnzuQr",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/ru5H8naU8T/3115",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/ru5H8naU8T/xFMYSBX95HTA96FKS7MKP"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.206.71"
+    },
+    {
+        "id": "y7rxlAfGZg",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1718159698169,
+        "updatedTimestamp": 1729253433408,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 06 [45998117669]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 80,
+            "isCharging": false,
+            "batteryVoltage": 4161,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3479,
+                "available": 1167,
+                "isLow": false,
+                "heapFree": 0,
+                "heapMax": 512,
+                "heapTotal": 20
+            },
+            "trafficCounters": {
+                "trafficSimTx": 170127048,
+                "trafficSimRx": 10776888,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 180903936,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253433407
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 06.11.2024",
+            "expirationTimestamp": 1730853363343,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "MDjjtnzuQr",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/y7rxlAfGZg/8169",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/y7rxlAfGZg/xFA7W4EASN94TF6NAGHM7"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.205.124"
+    },
+    {
+        "id": "p1jav7PzLL",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1718156671386,
+        "updatedTimestamp": 1729253423113,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 05 [45999184480]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4426,
+            "batteryTemperature": 28,
+            "memory": {
+                "total": 3479,
+                "available": 1210,
+                "isLow": false,
+                "heapFree": 5,
+                "heapMax": 512,
+                "heapTotal": 18
+            },
+            "trafficCounters": {
+                "trafficSimTx": 21488190,
+                "trafficSimRx": 1361346,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 22849536,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253423111
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 06.11.2024",
+            "expirationTimestamp": 1730853363132,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "MDjjtnzuQr",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/p1jav7PzLL/1386",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/p1jav7PzLL/xYN3FH865BWEWEX3SPXT8"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.208.106"
+    },
+    {
+        "id": "7oqir5bIBj",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1718137364853,
+        "updatedTimestamp": 1729253489332,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 03",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (MOBILE)",
+                "5G (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 99,
+            "isCharging": false,
+            "batteryVoltage": 4297,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3579,
+                "available": 1370,
+                "isLow": false,
+                "heapFree": 2,
+                "heapMax": 512,
+                "heapTotal": 18
+            },
+            "trafficCounters": {
+                "trafficSimTx": 5772222,
+                "trafficSimRx": 365634,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 6137856,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253489331
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 08.12.2024",
+            "expirationTimestamp": 1733691137002,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "MDjjtnzuQr",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/7oqir5bIBj/4853",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/7oqir5bIBj/xYWBHKVM4X3WPW4YVMM9C"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.25.119.249"
+    },
+    {
+        "id": "vhCsVYS2iH",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1714509414730,
+        "updatedTimestamp": 1729253426017,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 04 [45998622049]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 89,
+            "isCharging": false,
+            "batteryVoltage": 4292,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3479,
+                "available": 1242,
+                "isLow": false,
+                "heapFree": 8,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 931648956,
+                "trafficSimRx": 188452722,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1120148032,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253426014
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 31.10.2024",
+            "expirationTimestamp": 1730334440042,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/vhCsVYS2iH/4730",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/vhCsVYS2iH/xESHAWVC6HVHCNCG4P8YE"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "189.40.69.73"
+    },
+    {
+        "id": "qTDevMInOC",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1714508829683,
+        "updatedTimestamp": 1729253444172,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 03 [45998622043]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4419,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3479,
+                "available": 1075,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 18
+            },
+            "trafficCounters": {
+                "trafficSimTx": 130418578,
+                "trafficSimRx": 8261742,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 138680320,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253444170
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 27.10.2024",
+            "expirationTimestamp": 1730063927340,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "UGwD95inbA",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/qTDevMInOC/9683",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/qTDevMInOC/xG6PMWTEEM6PYGRN3YMS9"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.202.68"
+    },
+    {
+        "id": "QdRY2oY973",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1714423244058,
+        "updatedTimestamp": 1729253442626,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "RECIFE 02",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (MOBILE)",
+                "5G (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4340,
+            "batteryTemperature": 32,
+            "memory": {
+                "total": 3579,
+                "available": 1098,
+                "isLow": false,
+                "heapFree": 8,
+                "heapMax": 512,
+                "heapTotal": 19
+            },
+            "trafficCounters": {
+                "trafficSimTx": 777925536,
+                "trafficSimRx": 161108802,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 939319776,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253442622
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 26.10.2024",
+            "expirationTimestamp": 1729978816992,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "WXoyVtshcK",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/QdRY2oY973/4058",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/QdRY2oY973/x476PH6SBPMBMXSK5T563"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.229.254"
+    },
+    {
+        "id": "m6ULzoykno",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713386020106,
+        "updatedTimestamp": 1729253476141,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 01",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A155M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "VPN",
+                "4G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 82,
+            "isCharging": false,
+            "batteryVoltage": 4109,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3638,
+                "available": 1420,
+                "isLow": false,
+                "heapFree": 5,
+                "heapMax": 512,
+                "heapTotal": 21
+            },
+            "trafficCounters": {
+                "trafficSimTx": 1082831190,
+                "trafficSimRx": 250453250,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 1333662880,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253476137
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 13.11.2024",
+            "expirationTimestamp": 1731533878993,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/m6ULzoykno/0106",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/m6ULzoykno/x5F6PM7Y3N3YRPB84WGB4"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.25.113.221"
+    },
+    {
+        "id": "FdBeEsQAi8",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713381923378,
+        "updatedTimestamp": 1729253468011,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "RECIFE 01",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 70,
+            "isCharging": false,
+            "batteryVoltage": 3965,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3579,
+                "available": 1246,
+                "isLow": false,
+                "heapFree": 1,
+                "heapMax": 512,
+                "heapTotal": 17
+            },
+            "trafficCounters": {
+                "trafficSimTx": 65684112,
+                "trafficSimRx": 4160880,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 69844992,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253468009
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 13.11.2024",
+            "expirationTimestamp": 1731528104132,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/FdBeEsQAi8/3378",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/FdBeEsQAi8/xBGEPM93MHKGB6EK9AG37"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.173.238.83"
+    },
+    {
+        "id": "mBLhtIjWfK",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713379572448,
+        "updatedTimestamp": 1729253494210,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FORTALEZA 02",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A155M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "4G (MOBILE)",
+                "VPN"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 82,
+            "isCharging": false,
+            "batteryVoltage": 4109,
+            "batteryTemperature": 31,
+            "memory": {
+                "total": 3638,
+                "available": 1357,
+                "isLow": false,
+                "heapFree": 0,
+                "heapMax": 512,
+                "heapTotal": 27
+            },
+            "trafficCounters": {
+                "trafficSimTx": 3113231884,
+                "trafficSimRx": 709429858,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 3825549888,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Vivo",
+            "latestDeviceMetricsTimestamp": 1729253494209
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 13.11.2024",
+            "expirationTimestamp": 1731526173324,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/mBLhtIjWfK/2448",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/mBLhtIjWfK/xHNW3635CVMRCB3H537YG"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.25.122.174"
+    },
+    {
+        "id": "Oex5BtAZsI",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713376427460,
+        "updatedTimestamp": 1729253462689,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 02 [45999331935]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 76,
+            "isCharging": false,
+            "batteryVoltage": 4131,
+            "batteryTemperature": 27,
+            "memory": {
+                "total": 3479,
+                "available": 1191,
+                "isLow": false,
+                "heapFree": 4,
+                "heapMax": 512,
+                "heapTotal": 29
+            },
+            "trafficCounters": {
+                "trafficSimTx": 3556361692,
+                "trafficSimRx": 666687514,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 4223549792,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253462688
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 18.11.2024",
+            "expirationTimestamp": 1731974399999,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "xuEwEpxTUv",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/Oex5BtAZsI/7460",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/Oex5BtAZsI/xXNV8W5RFS5VT8SGPWEA5"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.194.180"
+    },
+    {
+        "id": "axczP1I6iS",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713225868618,
+        "updatedTimestamp": 1729253476613,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "CORN\u00c9LIO 02",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (VPN)",
+                "5G (MOBILE)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 46,
+            "isCharging": false,
+            "batteryVoltage": 3810,
+            "batteryTemperature": 25,
+            "memory": {
+                "total": 3579,
+                "available": 1503,
+                "isLow": false,
+                "heapFree": 4,
+                "heapMax": 512,
+                "heapTotal": 24
+            },
+            "trafficCounters": {
+                "trafficSimTx": 583148370,
+                "trafficSimRx": 191159170,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 775106048,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "TIMBRASIL",
+            "latestDeviceMetricsTimestamp": 1729253476612
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 12.11.2024",
+            "expirationTimestamp": 1731379441294,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/axczP1I6iS/8618",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/axczP1I6iS/x6CX9KA96CWM6BE6NPYC3"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.124.145"
+    },
+    {
+        "id": "A3aeXeSoNo",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713063874744,
+        "updatedTimestamp": 1729253457384,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "FOZ 01 [45999744512]",
+        "description": null,
+        "deviceManufacturer": "Xiaomi",
+        "deviceModel": "23076RN8DY",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4413,
+            "batteryTemperature": 28,
+            "memory": {
+                "total": 3479,
+                "available": 1296,
+                "isLow": false,
+                "heapFree": 3,
+                "heapMax": 512,
+                "heapTotal": 18
+            },
+            "trafficCounters": {
+                "trafficSimTx": 116601326,
+                "trafficSimRx": 7386642,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 123987968,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "Unknown",
+            "latestDeviceMetricsTimestamp": 1729253457376
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 05.11.2024",
+            "expirationTimestamp": 1730766882527,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "81mPCdzj8H",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/A3aeXeSoNo/4744",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/A3aeXeSoNo/xMS5A3EKSPYKX4635BXMW"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.201.224"
+    },
+    {
+        "id": "kDHK6Aww9W",
+        "userId": "J6XhhwsTkq",
+        "createdTimestamp": 1713052060520,
+        "updatedTimestamp": 1729253424559,
+        "isRoot": false,
+        "appVersion": "553",
+        "name": "CORN\u00c9LIO 01",
+        "description": null,
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-A156M",
+        "deviceMetrics": {
+            "networkType": "LTE",
+            "networkTypes": [
+                "5G (MOBILE)",
+                "5G (VPN)"
+            ],
+            "batteryHealth": "good",
+            "batteryLevel": 73,
+            "isCharging": false,
+            "batteryVoltage": 4047,
+            "batteryTemperature": 26,
+            "memory": {
+                "total": 3579,
+                "available": 1419,
+                "isLow": false,
+                "heapFree": 2,
+                "heapMax": 512,
+                "heapTotal": 31
+            },
+            "trafficCounters": {
+                "trafficSimTx": 602131510,
+                "trafficSimRx": 196783124,
+                "trafficWifiTx": 0,
+                "trafficWifiRx": 0,
+                "trafficSimSum": 799386176,
+                "trafficWifiSum": 0
+            },
+            "networkOperatorName": "TIMBRASIL",
+            "latestDeviceMetricsTimestamp": 1729253424557
+        },
+        "ipChangeEnabled": false,
+        "planDetails": {
+            "message": "BigDaddy active till 10.11.2024",
+            "expirationTimestamp": 1731198622200,
+            "plan": {
+                "name": "BigDaddy",
+                "bits_per_sec_in": 25000000,
+                "conn_per_min": 3000,
+                "conn_per_sec": 500,
+                "max_proxies_per_connection": 5,
+                "logsVisibleWeeksNumber": 4
+            }
+        },
+        "srvId": "l1PPN7glGR",
+        "changeIpUrl": "https://i.fxdx.in/api-rt/changeip/kDHK6Aww9W/0520",
+        "extraChangeIPUrls": [
+            "https://i.fxdx.in/api-rt/changeip/kDHK6Aww9W/xC8K8N76RNN438STMYH33"
+        ],
+        "fingerprint": "none",
+        "online": true,
+        "externalIp": "177.51.127.194"
+    }
+]
