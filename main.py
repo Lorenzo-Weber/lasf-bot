@@ -40,18 +40,18 @@ if __name__ == "__main__":
 
                 if failed[proxy.id]['count'] >= 2:
                     sender.append(Message(proxy))
-                    failed[proxy.id]['count'] = 0
+                    failed[proxy.id]['count'] = 1
 
                 # Registra no log o proxy que falhou
-                timeStamp = datetime.now().strftime("%H:%M:%S")
+                timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
                 with open('log.txt', 'a') as log:
                     log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} failed at {timeStamp}\n')
         
         for proxy in proxies:
-            if proxy.btr <= 20:
+            if proxy.btr <= 20 and not proxy.isCharging:
                 if bitr >= bitr_cycle:
                     sender.append(Message(proxy, battery=True))
-                    timeStamp = datetime.now().strftime("%H:%M:%S")
+                    timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
                     with open('log.txt', 'a') as log:
                         log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} is on low battery {proxy.btr}% at {timeStamp}\n')
                 else:
@@ -59,5 +59,11 @@ if __name__ == "__main__":
 
         # Envia a mensagem sobre o proxy falhado
         for s in sender:
-            send(s.region, s.__str__())
-        time.sleep(180)
+            sent = send(s.region, s.__str__())
+            timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
+            with open('log.txt', 'a') as log:
+                if sent: 
+                    log.write(f"Message sent to {s.region} {s.name} at {timeStamp}\n")
+                else:
+                    log.write(f"Message failed to {s.region} {s.name} at {timeStamp}\n")
+        time.sleep(420)

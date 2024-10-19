@@ -1,0 +1,60 @@
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/17  16:17:28
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/17  16:17:28
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/17    16:17:28
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 18% at 10/19/24/17  16:17:28
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/17  16:17:28
+Message sent to LAGUNA 05 at 10/19/24/18  16:18:15
+Message failed to FOZ 03 [45998622043] at 10/19/24/19  16:19:27
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/22  16:22:31
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/22  16:22:31
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/22  16:22:31
+Proxy kDHK6Aww9W / CORNÉLIO 01 failed at 10/19/24/22  16:22:31
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 18% at 10/19/24/22  16:22:31
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/22  16:22:31
+Message failed to FOZ 09 [45999674069] at 10/19/24/23  16:23:31
+Message failed to FOZ 04 [45998622049] at 10/19/24/24  16:24:01
+Message failed to FOZ 03 [45998622043] at 10/19/24/25  16:25:14
+Message sent to LAGUNA 05 at 10/19/24/25  16:25:40
+Message failed to FOZ 03 [45998622043] at 10/19/24/26  16:26:54
+Proxy kDHK6Aww9W / CORNÉLIO 01 turned on at 16:29:56
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/29  16:29:56
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/29  16:29:56
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/29  16:29:56
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 18% at 10/19/24/29  16:29:56
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/29  16:29:56
+Message sent to LAGUNA 05 at 10/19/24/30  16:30:23
+Message failed to FOZ 03 [45998622043] at 10/19/24/31  16:31:36
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/34  16:34:38
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/34  16:34:38
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/34  16:34:38
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 18% at 10/19/24/34  16:34:38
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/34  16:34:38
+Message failed to FOZ 09 [45999674069] at 10/19/24/35  16:35:49
+Message failed to FOZ 04 [45998622049] at 10/19/24/37  16:37:02
+Message failed to FOZ 03 [45998622043] at 10/19/24/38  16:38:14
+Message sent to LAGUNA 05 at 10/19/24/38  16:38:52
+Message failed to FOZ 03 [45998622043] at 10/19/24/40  16:40:04
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/43  16:43:07
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/43  16:43:07
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/43  16:43:07
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 17% at 10/19/24/43  16:43:07
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/43  16:43:07
+Message sent to LAGUNA 05 at 10/19/24/43  16:43:32
+Message failed to FOZ 03 [45998622043] at 10/19/24/44  16:44:45
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/47  16:47:47
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/47  16:47:47
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/47  16:47:47
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 17% at 10/19/24/47  16:47:47
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/47  16:47:47
+Message failed to FOZ 09 [45999674069] at 10/19/24/48  16:48:59
+Message failed to FOZ 04 [45998622049] at 10/19/24/50  16:50:12
+Message failed to FOZ 03 [45998622043] at 10/19/24/51  16:51:25
+Message sent to LAGUNA 05 at 10/19/24/52  16:52:02
+Message failed to FOZ 03 [45998622043] at 10/19/24/53  16:53:20
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/19/24/56  16:56:24
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/19/24/56  16:56:24
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/19/24/56  16:56:24
+Proxy awLbXCX8RE / LAGUNA 05 is on low battery 17% at 10/19/24/56  16:56:24
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/19/24/56  16:56:24
+Message sent to LAGUNA 05 at 10/19/24/57  16:57:02
+Message failed to FOZ 03 [45998622043] at 10/19/24/58  16:58:19

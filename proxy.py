@@ -4,6 +4,7 @@ class Proxy:
         self.id = line['id']
         self.online = line['online']
         self.btr = line['deviceMetrics']['batteryLevel']
+        self.isCharging = line['deviceMetrics']['isCharging']
         self.region, self.name = self.getRegionName(line['name'])
 
     def getRegionName(self, name):

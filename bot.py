@@ -35,9 +35,9 @@ def send(group_name, message):
         group_title = wait.until(EC.element_to_be_clickable((By.XPATH, f'//span[@title="{group_name}"]')))
         group_title.click()
     except Exception as e:
-        print(f"Erro ao encontrar o grupo: {e}")
+        print(f"Erro ao encontrar o grupo: {group_name} {e}")
         driver.quit()
-        return
+        return False
 
     time.sleep(3)
 
@@ -47,6 +47,6 @@ def send(group_name, message):
     input_box.send_keys(Keys.ENTER)  
 
     time.sleep(5)
-
+    return True
     driver.quit()
 
