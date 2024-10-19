@@ -3,10 +3,12 @@ import time
 from datetime import datetime
 from proxy import Proxy
 from data.API import run
+from message import Message
+from bot import send
 
-proxies = []
 failed = {}
-sender = []
+bitr_cycle = 3
+bitr = bitr_cycle
 
 if __name__ == "__main__":
     while True:
@@ -37,7 +39,7 @@ if __name__ == "__main__":
                     failed[proxy.id]['count'] += 1
 
                 if failed[proxy.id]['count'] >= 2:
-                    sender.append(proxy)
+                    sender.append(Message(proxy))
                     failed[proxy.id]['count'] = 0
 
                 # Registra no log o proxy que falhou
@@ -45,11 +47,17 @@ if __name__ == "__main__":
                 with open('log.txt', 'a') as log:
                     log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} failed at {timeStamp}\n')
         
-        # Envia a mensagem sobre o proxy falhado
-        for proxy in sender:
-            message = f'O proxy {proxy.region} {proxy.name} está offline!'
-            group = proxy.region
-            print(message)
+        for proxy in proxies:
+            if proxy.btr <= 20:
+                if bitr >= bitr_cycle:
+                    sender.append(Message(proxy, battery=True))
+                    timeStamp = datetime.now().strftime("%H:%M:%S")
+                    with open('log.txt', 'a') as log:
+                        log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} is on low battery {proxy.btr}% at {timeStamp}\n')
+                else:
+                    bitr += 1
 
-            # Bot.send(group, message)  
-        time.sleep(60)
+        # Envia a mensagem sobre o proxy falhado
+        for s in sender:
+            send(s.region, s.__str__())
+        time.sleep(180)

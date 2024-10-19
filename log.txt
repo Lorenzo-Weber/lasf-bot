@@ -1,0 +1,171 @@
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 22:04:40
+Proxy A3aeXeSoNo / FOZ 01 [45999744512] failed at 22:04:40
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 27 % at 22:04:40
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 32 % at 22:04:40
+Proxy A3aeXeSoNo / FOZ 01 [45999744512] turned on at 22:07:42
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 22:07:42
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 26 % at 22:07:42
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 32 % at 22:07:42
+Proxy PpAJ7Mw1sC / FORTALEZA 08 failed at 22:10:45
+Proxy q7Ral6Sqhc / LAGUNA 04 failed at 22:10:45
+Proxy CnPnTCWv9P / LAGUNA 03  failed at 22:10:45
+Proxy dED69WAwSo / STA MARIA 02 [55992276176] failed at 22:10:45
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 22:10:45
+Proxy gz5mePhQBj / RECIFE 04 failed at 22:10:45
+Proxy 8X0MYA4Zyc / FOZ 08 [45999822763] failed at 22:10:45
+Proxy mBLhtIjWfK / FORTALEZA 02 failed at 22:10:45
+Proxy Oex5BtAZsI / FOZ 02 [45999331935] failed at 22:10:45
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 26 % at 22:10:45
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 32 % at 22:10:45
+Proxy PpAJ7Mw1sC / FORTALEZA 08 turned on at 22:13:47
+Proxy q7Ral6Sqhc / LAGUNA 04 turned on at 22:13:47
+Proxy CnPnTCWv9P / LAGUNA 03  turned on at 22:13:47
+Proxy dED69WAwSo / STA MARIA 02 [55992276176] turned on at 22:13:47
+Proxy gz5mePhQBj / RECIFE 04 turned on at 22:13:47
+Proxy 8X0MYA4Zyc / FOZ 08 [45999822763] turned on at 22:13:47
+Proxy mBLhtIjWfK / FORTALEZA 02 turned on at 22:13:47
+Proxy Oex5BtAZsI / FOZ 02 [45999331935] turned on at 22:13:47
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 22:13:47
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 26 % at 22:13:47
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 31 % at 22:13:47
+Proxy lwMc6u4Qm8 / FORTALEZA 04 failed at 22:16:49
+Proxy UruaCU4D1C / LAGUNA 07 failed at 22:16:49
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 22:16:49
+Proxy 7oqir5bIBj / FORTALEZA 03 failed at 22:16:49
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 26 % at 22:16:49
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 31 % at 22:16:49
+Proxy rQ8id1x21B / RECIFE 07 failed at 00:03:14
+Proxy Be31dcIgCo / LAGUNA 10 failed at 00:03:14
+Proxy WFo3zTBoZi / LAGUNA 06 failed at 00:03:14
+Proxy qtCFPT4Sum / STA MARIA 06 [55992247101] failed at 00:03:14
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] failed at 00:03:14
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:03:14
+Proxy axczP1I6iS / CORNÉLIO 02 failed at 00:03:14
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 34 % at 00:03:14
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 22 % at 00:03:14
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 26 % at 00:03:14
+Proxy rQ8id1x21B / RECIFE 07 turned on at 00:06:17
+Proxy Be31dcIgCo / LAGUNA 10 turned on at 00:06:17
+Proxy WFo3zTBoZi / LAGUNA 06 turned on at 00:06:17
+Proxy qtCFPT4Sum / STA MARIA 06 [55992247101] turned on at 00:06:17
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] turned on at 00:06:17
+Proxy axczP1I6iS / CORNÉLIO 02 turned on at 00:06:17
+Proxy H4HfGN8MAb / LAGUNA 02 [48996027536] failed at 00:06:17
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:06:17
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 33 % at 00:06:17
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 22 % at 00:06:17
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 26 % at 00:06:17
+Proxy H4HfGN8MAb / LAGUNA 02 [48996027536] turned on at 00:09:18
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:09:18
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 33 % at 00:09:18
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 22 % at 00:09:18
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 26 % at 00:09:18
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:12:20
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 33 % at 00:12:20
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 22 % at 00:12:20
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 26 % at 00:12:20
+Proxy PpAJ7Mw1sC / FORTALEZA 08 failed at 00:15:23
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:15:23
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 33 % at 00:15:23
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:15:23
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:15:23
+Proxy PpAJ7Mw1sC / FORTALEZA 08 turned on at 00:18:25
+Proxy e0M4LTNSGp / STA MARIA 08 [55992220075] failed at 00:18:25
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:18:25
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 33 % at 00:18:25
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:18:25
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:18:25
+Proxy e0M4LTNSGp / STA MARIA 08 [55992220075] turned on at 00:21:27
+Proxy lwMc6u4Qm8 / FORTALEZA 04 failed at 00:21:27
+Proxy UruaCU4D1C / LAGUNA 07 failed at 00:21:27
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:21:27
+Proxy JllxemcEGs / RECIFE 03 failed at 00:21:27
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 33 % at 00:21:27
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:21:27
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:21:27
+Proxy lwMc6u4Qm8 / FORTALEZA 04 turned on at 00:24:29
+Proxy UruaCU4D1C / LAGUNA 07 turned on at 00:24:29
+Proxy 15Ame8aUrh / LAGUNA 08 failed at 00:24:29
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:24:29
+Proxy JllxemcEGs / RECIFE 03 failed at 00:24:29
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 32 % at 00:24:29
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:24:29
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:24:29
+Proxy 15Ame8aUrh / LAGUNA 08 turned on at 00:27:32
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:27:32
+Proxy JllxemcEGs / RECIFE 03 failed at 00:27:32
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 32 % at 00:27:32
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:27:32
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:27:32
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:30:35
+Proxy JllxemcEGs / RECIFE 03 failed at 00:30:35
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 32 % at 00:30:35
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:30:35
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:30:35
+Proxy JllxemcEGs / RECIFE 03 turned on at 00:33:43
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:33:43
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 32 % at 00:33:43
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:33:43
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:33:43
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:36:47
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 32 % at 00:36:47
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:36:47
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 25 % at 00:36:47
+Proxy 15Ame8aUrh / LAGUNA 08 failed at 00:39:50
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:39:50
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 32 % at 00:39:50
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 21 % at 00:39:50
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 24 % at 00:39:50
+Proxy 15Ame8aUrh / LAGUNA 08 turned on at 00:42:52
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:42:52
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 31 % at 00:42:52
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 20 % at 00:42:52
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 24 % at 00:42:52
+Proxy WFo3zTBoZi / LAGUNA 06 failed at 00:45:59
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:45:59
+Proxy axczP1I6iS / CORNÉLIO 02 failed at 00:45:59
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 31 % at 00:45:59
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 20 % at 00:45:59
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 24 % at 00:45:59
+Proxy axczP1I6iS / CORNÉLIO 02 turned on at 00:49:01
+Proxy WFo3zTBoZi / LAGUNA 06 failed at 00:49:01
+Proxy q7Ral6Sqhc / LAGUNA 04 failed at 00:49:01
+Proxy q7nPdtZtCZ / STA MARIA 10 [55992258960] failed at 00:49:01
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:49:01
+Proxy JllxemcEGs / RECIFE 03 failed at 00:49:01
+Proxy A3aeXeSoNo / FOZ 01 [45999744512] failed at 00:49:01
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 31 % at 00:49:01
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 20 % at 00:49:01
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 24 % at 00:49:01
+Proxy WFo3zTBoZi / LAGUNA 06 turned on at 00:52:04
+Proxy q7Ral6Sqhc / LAGUNA 04 turned on at 00:52:04
+Proxy q7nPdtZtCZ / STA MARIA 10 [55992258960] turned on at 00:52:04
+Proxy JllxemcEGs / RECIFE 03 turned on at 00:52:04
+Proxy A3aeXeSoNo / FOZ 01 [45999744512] turned on at 00:52:04
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 00:52:04
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 31 % at 00:52:04
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 20 % at 00:52:04
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 24 % at 00:52:04
+Proxy rQ8id1x21B / RECIFE 07 failed at 02:29:22
+Proxy 9439jXPiiQ / LAGUNA 09 failed at 02:29:22
+Proxy awLbXCX8RE / LAGUNA 05 failed at 02:29:22
+Proxy DRfEx6CGAk / LAGUNA 01 [48996026337] failed at 02:29:22
+Proxy FErB9jaCuq / STA MARIA 07 [55992330984] failed at 02:29:22
+Proxy qtCFPT4Sum / STA MARIA 06 [55992247101] failed at 02:29:22
+Proxy CwBFM15kIc / STA MARIA 04 [55992219044] failed at 02:29:22
+Proxy dED69WAwSo / STA MARIA 02 [55992276176] failed at 02:29:22
+Proxy uhTx8XDzNi / FOZ 10 [45999163356] failed at 02:29:22
+Proxy skNe1C8Gj5 / CORNÉLIO 05 failed at 02:29:22
+Proxy fhSswd4Lvu / CORNÉLIO 04 failed at 02:29:22
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 02:29:22
+Proxy gz5mePhQBj / RECIFE 04 failed at 02:29:22
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 02:29:22
+Proxy m6ULzoykno / FORTALEZA 01 failed at 02:29:22
+Proxy axczP1I6iS / CORNÉLIO 02 failed at 02:29:22
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 23 % at 02:29:22
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 17 % at 02:29:22
+Proxy q7Ral6Sqhc / LAGUNA 04 is on low battery 34 % at 02:29:22
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 20 % at 02:29:22
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 02:36:24
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 17 % at 02:36:24
+Proxy FdBeEsQAi8 / RECIFE 01 is on low battery 19 % at 02:36:24
