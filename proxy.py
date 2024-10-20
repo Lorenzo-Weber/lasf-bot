@@ -9,6 +9,8 @@ class Proxy:
 
     def getRegionName(self, name):
         lst = name.split(" ")
+        if lst[-1].endswith(']'):
+            lst = lst[:-1]
         return " ".join(lst[:-1]), lst[-1]
     
     def printInfos(self):

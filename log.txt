@@ -1,0 +1,54 @@
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] failed at 10/20/24/29  15:29:26
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/20/24/29  15:29:26
+Proxy 8X0MYA4Zyc / FOZ 08 [45999822763] failed at 10/20/24/29  15:29:26
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/20/24/29  15:29:26
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/20/24/29  15:29:26
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 11% at 10/20/24/29  15:29:26
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 17% at 10/20/24/29  15:29:26
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] is on low battery 1% at 10/20/24/29  15:29:26
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/20/24/29  15:29:26
+Message sent to LAGUNA 08 at 10/20/24/30  15:30:09
+Message sent to LAGUNA 06 at 10/20/24/30  15:30:42
+Message failed to STA MARIA 05 [55992292983] at 10/20/24/31  15:31:06
+Proxy OtQOpO2ZAb / RECIFE 05 failed at 10/20/24/32  15:32:59
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] failed at 10/20/24/32  15:32:59
+Proxy JGi7C2P5EK / STA MARIA 03 [55992250544] failed at 10/20/24/32  15:32:59
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/20/24/32  15:32:59
+Proxy 8X0MYA4Zyc / FOZ 08 [45999822763] failed at 10/20/24/32  15:32:59
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/20/24/32  15:32:59
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/20/24/32  15:32:59
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 11% at 10/20/24/32  15:32:59
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 16% at 10/20/24/32  15:32:59
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] is on low battery 1% at 10/20/24/32  15:32:59
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/20/24/32  15:32:59
+Message failed to LAGUNA 08 at 10/20/24/33  15:33:11
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] failed at 10/20/24/36  15:36:38
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/20/24/36  15:36:38
+Proxy 8X0MYA4Zyc / FOZ 08 [45999822763] failed at 10/20/24/36  15:36:38
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/20/24/36  15:36:38
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/20/24/36  15:36:38
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 10% at 10/20/24/36  15:36:38
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 16% at 10/20/24/36  15:36:38
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] is on low battery 1% at 10/20/24/36  15:36:38
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/20/24/36  15:36:38
+Proxy FErB9jaCuq / STA MARIA 07 [55992330984] failed at 10/20/24/38  15:38:24
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] failed at 10/20/24/38  15:38:24
+Proxy 1jizufm7SU / FOZ 09 [45999674069] failed at 10/20/24/38  15:38:24
+Proxy 8X0MYA4Zyc / FOZ 08 [45999822763] failed at 10/20/24/38  15:38:24
+Proxy vhCsVYS2iH / FOZ 04 [45998622049] failed at 10/20/24/38  15:38:24
+Proxy qTDevMInOC / FOZ 03 [45998622043] failed at 10/20/24/38  15:38:24
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 10% at 10/20/24/38  15:38:24
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 16% at 10/20/24/38  15:38:24
+Proxy MGC9jmWesT / STA MARIA 05 [55992292983] is on low battery 1% at 10/20/24/38  15:38:24
+Proxy qTDevMInOC / FOZ 03 [45998622043] is on low battery 14% at 10/20/24/38  15:38:24
+Proxy iI9brdJCWf / FORTALEZA 05 failed at 10/20/24/39  15:39:19
+Proxy OtQOpO2ZAb / RECIFE 05 failed at 10/20/24/39  15:39:19
+Proxy MGC9jmWesT / STA MARIA 05 failed at 10/20/24/39  15:39:19
+Proxy 1jizufm7SU / FOZ 09 failed at 10/20/24/39  15:39:19
+Proxy 8X0MYA4Zyc / FOZ 08 failed at 10/20/24/39  15:39:19
+Proxy vhCsVYS2iH / FOZ 04 failed at 10/20/24/39  15:39:19
+Proxy qTDevMInOC / FOZ 03 failed at 10/20/24/39  15:39:19
+Proxy 15Ame8aUrh / LAGUNA 08 is on low battery 10% at 10/20/24/39  15:39:19
+Proxy WFo3zTBoZi / LAGUNA 06 is on low battery 16% at 10/20/24/39  15:39:19
+Proxy MGC9jmWesT / STA MARIA 05 is on low battery 1% at 10/20/24/39  15:39:19
+Proxy qTDevMInOC / FOZ 03 is on low battery 14% at 10/20/24/39  15:39:19
