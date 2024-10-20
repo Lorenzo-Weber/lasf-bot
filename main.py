@@ -1,14 +1,16 @@
 import json
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from proxy import Proxy
 from data.API import run
 from message import Message
 from bot import send
+from logbot import send_file
 
 failed = {}
 bitr_cycle = 3
 bitr = bitr_cycle
+current_day = datetime.now().strftime("%D/%M")
 
 if __name__ == "__main__":
     while True:
@@ -20,7 +22,6 @@ if __name__ == "__main__":
         with open('data/data.json', 'r') as f:
             data = json.load(f)
         proxies = [Proxy(line) for line in data]  
-
 
         # Reseta a lista de falhas se um proxy falhado voltar a ficar online
         for proxy in proxies:
@@ -59,11 +60,20 @@ if __name__ == "__main__":
 
         # Envia a mensagem sobre o proxy falhado
         for s in sender:
-            sent = send(s.region, s.__str__())
+            region = f'PROXY {s.region}'
+            sent = send(region, s.__str__())
             timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
             with open('log.txt', 'a') as log:
                 if sent: 
                     log.write(f"Message sent to {s.region} {s.name} at {timeStamp}\n")
                 else:
                     log.write(f"Message failed to {s.region} {s.name} at {timeStamp}\n")
+
+        # Verifica se um dia passou
+        new_day = datetime.now().strftime("%D/%M")
+        if new_day != current_day:
+            send_file('Lucas')  
+
+            current_day = new_day
+
         time.sleep(420)

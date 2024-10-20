@@ -47,6 +47,6 @@ def send(group_name, message):
     input_box.send_keys(Keys.ENTER)  
 
     time.sleep(5)
-    return True
     driver.quit()
+    return True
 
