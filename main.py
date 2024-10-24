@@ -5,12 +5,8 @@ from proxy import Proxy
 from data.API import run
 from message import Message
 from bot import send
-from logbot import send_file
 
 failed = {}
-bitr_cycle = 3
-bitr = bitr_cycle
-current_day = datetime.now().strftime("%D/%M")
 
 if __name__ == "__main__":
     while True:
@@ -41,22 +37,12 @@ if __name__ == "__main__":
 
                 if failed[proxy.id]['count'] >= 2:
                     sender.append(Message(proxy))
-                    failed[proxy.id]['count'] = 1
+                    failed[proxy.id]['count'] = 0
 
                 # Registra no log o proxy que falhou
                 timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
                 with open('log.txt', 'a') as log:
                     log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} failed at {timeStamp}\n')
-        
-        for proxy in proxies:
-            if proxy.btr <= 20 and not proxy.isCharging:
-                if bitr >= bitr_cycle:
-                    sender.append(Message(proxy, battery=True))
-                    timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
-                    with open('log.txt', 'a') as log:
-                        log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} is on low battery {proxy.btr}% at {timeStamp}\n')
-                else:
-                    bitr += 1
 
         # Envia a mensagem sobre o proxy falhado
         for s in sender:
@@ -69,11 +55,4 @@ if __name__ == "__main__":
                 else:
                     log.write(f"Message failed to {s.region} {s.name} at {timeStamp}\n")
 
-        # Verifica se um dia passou
-        new_day = datetime.now().strftime("%D/%M")
-        if new_day != current_day:
-            send_file('Lucas')  
-
-            current_day = new_day
-
-        time.sleep(420)
+        time.sleep(60)

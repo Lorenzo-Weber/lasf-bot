@@ -3,7 +3,7 @@
         "id": "PpAJ7Mw1sC",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1728227357511,
-        "updatedTimestamp": 1729449409792,
+        "updatedTimestamp": 1729794769785,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 08",
@@ -17,28 +17,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 71,
+            "batteryLevel": 73,
             "isCharging": false,
-            "batteryVoltage": 3974,
-            "batteryTemperature": 33,
+            "batteryVoltage": 4011,
+            "batteryTemperature": 36,
             "memory": {
                 "total": 3579,
-                "available": 617,
+                "available": 433,
                 "isLow": false,
-                "heapFree": 13,
+                "heapFree": 9,
                 "heapMax": 512,
-                "heapTotal": 32
+                "heapTotal": 30
             },
             "trafficCounters": {
-                "trafficSimTx": 3114946344,
-                "trafficSimRx": 813063602,
+                "trafficSimTx": 4255237104,
+                "trafficSimRx": 1215663462,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 3933417888,
+                "trafficSimSum": 5478403360,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449409789
+            "latestDeviceMetricsTimestamp": 1729794769783
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -60,13 +60,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "179.224.177.117"
+        "externalIp": "179.224.184.31"
     },
     {
         "id": "ZqWFTlYqPH",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1728227331299,
-        "updatedTimestamp": 1729449420299,
+        "updatedTimestamp": 1729794780251,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 07",
@@ -80,28 +80,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 95,
-            "isCharging": false,
-            "batteryVoltage": 4265,
-            "batteryTemperature": 36,
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4345,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1226,
+                "available": 1301,
                 "isLow": false,
-                "heapFree": 8,
+                "heapFree": 2,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 26
             },
             "trafficCounters": {
-                "trafficSimTx": 1042626298,
-                "trafficSimRx": 261889234,
+                "trafficSimTx": 2315644722,
+                "trafficSimRx": 889534356,
                 "trafficWifiTx": 2830064,
                 "trafficWifiRx": 200100,
-                "trafficSimSum": 1307292352,
+                "trafficSimSum": 3210522176,
                 "trafficWifiSum": 3028992
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449420297
+            "latestDeviceMetricsTimestamp": 1729794780249
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -123,13 +123,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "179.224.178.204"
+        "externalIp": "177.25.116.204"
     },
     {
         "id": "CKAxE6C6FB",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1728227282036,
-        "updatedTimestamp": 1729449428774,
+        "updatedTimestamp": 1729794744315,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 06",
@@ -143,28 +143,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
-            "isCharging": true,
-            "batteryVoltage": 4351,
-            "batteryTemperature": 34,
+            "batteryLevel": 89,
+            "isCharging": false,
+            "batteryVoltage": 4207,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1345,
+                "available": 1382,
                 "isLow": false,
-                "heapFree": 0,
+                "heapFree": 1,
                 "heapMax": 512,
-                "heapTotal": 22
+                "heapTotal": 21
             },
             "trafficCounters": {
-                "trafficSimTx": 326285232,
-                "trafficSimRx": 73961278,
+                "trafficSimTx": 166967588,
+                "trafficSimRx": 36418726,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 400268480,
+                "trafficSimSum": 203415008,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449428773
+            "latestDeviceMetricsTimestamp": 1729794744314
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -186,13 +186,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.25.112.152"
+        "externalIp": "179.224.188.230"
     },
     {
         "id": "iI9brdJCWf",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1728227183242,
-        "updatedTimestamp": 1729449499914,
+        "updatedTimestamp": 1729794753754,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 05",
@@ -206,28 +206,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 95,
+            "batteryLevel": 72,
             "isCharging": false,
-            "batteryVoltage": 4261,
-            "batteryTemperature": 35,
+            "batteryVoltage": 4027,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1242,
+                "available": 1317,
                 "isLow": false,
-                "heapFree": 5,
+                "heapFree": 10,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 22
             },
             "trafficCounters": {
-                "trafficSimTx": 2410962734,
-                "trafficSimRx": 505919684,
+                "trafficSimTx": 1218831784,
+                "trafficSimRx": 277586760,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 2917568832,
+                "trafficSimSum": 1497292832,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449499913
+            "latestDeviceMetricsTimestamp": 1729794753753
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -248,14 +248,14 @@
             "https://i.fxdx.in/api-rt/changeip/iI9brdJCWf/xT3H9K8884YPSMX8B5WT5"
         ],
         "fingerprint": "none",
-        "online": false,
-        "externalIp": "179.224.183.40"
+        "online": true,
+        "externalIp": "179.224.188.159"
     },
     {
         "id": "lwMc6u4Qm8",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1728227074707,
-        "updatedTimestamp": 1729449486284,
+        "updatedTimestamp": 1729794742656,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 04",
@@ -269,28 +269,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
-            "isCharging": true,
-            "batteryVoltage": 4363,
-            "batteryTemperature": 36,
+            "batteryLevel": 74,
+            "isCharging": false,
+            "batteryVoltage": 4034,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1304,
+                "available": 1138,
                 "isLow": false,
                 "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 21
+                "heapTotal": 20
             },
             "trafficCounters": {
-                "trafficSimTx": 2476741046,
-                "trafficSimRx": 517096162,
+                "trafficSimTx": 145914000,
+                "trafficSimRx": 31960642,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 2994759744,
+                "trafficSimSum": 177897600,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449486280
+            "latestDeviceMetricsTimestamp": 1729794742654
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -312,13 +312,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.25.122.161"
+        "externalIp": "179.224.190.47"
     },
     {
         "id": "rQ8id1x21B",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727995074241,
-        "updatedTimestamp": 1729448979160,
+        "updatedTimestamp": 1729794768634,
         "isRoot": false,
         "appVersion": "553",
         "name": "RECIFE 07",
@@ -334,26 +334,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4349,
-            "batteryTemperature": 34,
+            "batteryVoltage": 4344,
+            "batteryTemperature": 33,
             "memory": {
                 "total": 3638,
-                "available": 1449,
+                "available": 1465,
                 "isLow": false,
-                "heapFree": 11,
+                "heapFree": 0,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 22
             },
             "trafficCounters": {
-                "trafficSimTx": 2374571176,
-                "trafficSimRx": 535137480,
+                "trafficSimTx": 181531162,
+                "trafficSimRx": 50563840,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 2914830368,
+                "trafficSimSum": 232504128,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729448979158
+            "latestDeviceMetricsTimestamp": 1729794768631
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -375,13 +375,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.173.232.89"
+        "externalIp": "177.173.225.80"
     },
     {
         "id": "8a37RGpKtP",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727995054991,
-        "updatedTimestamp": 1729449495902,
+        "updatedTimestamp": 1729794829982,
         "isRoot": false,
         "appVersion": "553",
         "name": "RECIFE 06",
@@ -391,32 +391,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "4G (MOBILE)",
-                "VPN"
+                "VPN",
+                "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 92,
+            "batteryLevel": 98,
             "isCharging": false,
-            "batteryVoltage": 4217,
-            "batteryTemperature": 34,
+            "batteryVoltage": 4284,
+            "batteryTemperature": 33,
             "memory": {
                 "total": 3638,
-                "available": 1486,
+                "available": 1500,
                 "isLow": false,
                 "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 26
+                "heapTotal": 24
             },
             "trafficCounters": {
-                "trafficSimTx": 2604226550,
-                "trafficSimRx": 582590530,
+                "trafficSimTx": 883639796,
+                "trafficSimRx": 261137708,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 3193331904,
+                "trafficSimSum": 1146248992,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449495900
+            "latestDeviceMetricsTimestamp": 1729794829981
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -438,13 +438,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.173.230.202"
+        "externalIp": "177.173.234.141"
     },
     {
         "id": "OtQOpO2ZAb",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727995030432,
-        "updatedTimestamp": 1729449421442,
+        "updatedTimestamp": 1729794789962,
         "isRoot": false,
         "appVersion": "551",
         "name": "RECIFE 05",
@@ -454,32 +454,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "4G (MOBILE)",
-                "VPN"
+                "VPN",
+                "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
+            "batteryLevel": 99,
             "isCharging": true,
-            "batteryVoltage": 4347,
+            "batteryVoltage": 4377,
             "batteryTemperature": 35,
             "memory": {
                 "total": 3638,
-                "available": 1422,
+                "available": 1626,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 0,
                 "heapMax": 512,
-                "heapTotal": 18
+                "heapTotal": 21
             },
             "trafficCounters": {
-                "trafficSimTx": 26575810,
-                "trafficSimRx": 2588592,
+                "trafficSimTx": 1874107740,
+                "trafficSimRx": 500650520,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 29176032,
+                "trafficSimSum": 2376385632,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449421441
+            "latestDeviceMetricsTimestamp": 1729794789960
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -500,14 +500,14 @@
             "https://i.fxdx.in/api-rt/changeip/OtQOpO2ZAb/x65CVPR8HPAB8PK9HC7G6"
         ],
         "fingerprint": "none",
-        "online": false,
-        "externalIp": "177.173.225.205"
+        "online": true,
+        "externalIp": "177.173.232.210"
     },
     {
         "id": "Be31dcIgCo",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923843307,
-        "updatedTimestamp": 1729449497183,
+        "updatedTimestamp": 1729794737343,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 10",
@@ -521,28 +521,28 @@
                 "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 63,
+            "batteryLevel": 45,
             "isCharging": false,
-            "batteryVoltage": 3974,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3835,
+            "batteryTemperature": 29,
             "memory": {
                 "total": 3479,
-                "available": 1015,
+                "available": 1260,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 24
+                "heapTotal": 25
             },
             "trafficCounters": {
-                "trafficSimTx": 90648156,
-                "trafficSimRx": 6473880,
+                "trafficSimTx": 209369918,
+                "trafficSimRx": 17600436,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 97129056,
+                "trafficSimSum": 227009952,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449497182
+            "latestDeviceMetricsTimestamp": 1729794737341
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -570,7 +570,7 @@
         "id": "9439jXPiiQ",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923826410,
-        "updatedTimestamp": 1729449417001,
+        "updatedTimestamp": 1729794777409,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 09",
@@ -584,28 +584,28 @@
                 "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 28,
+            "batteryLevel": 55,
             "isCharging": false,
-            "batteryVoltage": 3757,
-            "batteryTemperature": 27,
+            "batteryVoltage": 3891,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1163,
+                "available": 1239,
                 "isLow": false,
-                "heapFree": 2,
+                "heapFree": 1,
                 "heapMax": 512,
-                "heapTotal": 17
+                "heapTotal": 18
             },
             "trafficCounters": {
-                "trafficSimTx": 63193474,
-                "trafficSimRx": 4814114,
+                "trafficSimTx": 182385626,
+                "trafficSimRx": 16210768,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 68015936,
+                "trafficSimSum": 198663200,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449417000
+            "latestDeviceMetricsTimestamp": 1729794777408
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -633,7 +633,7 @@
         "id": "15Ame8aUrh",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923799254,
-        "updatedTimestamp": 1729449472349,
+        "updatedTimestamp": 1729794831899,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 08",
@@ -647,28 +647,28 @@
                 "5G (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 10,
+            "batteryLevel": 48,
             "isCharging": false,
-            "batteryVoltage": 3673,
-            "batteryTemperature": 27,
+            "batteryVoltage": 3854,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1187,
+                "available": 1224,
                 "isLow": false,
-                "heapFree": 9,
+                "heapFree": 7,
                 "heapMax": 512,
                 "heapTotal": 25
             },
             "trafficCounters": {
-                "trafficSimTx": 155348992,
-                "trafficSimRx": 10566574,
+                "trafficSimTx": 274110638,
+                "trafficSimRx": 21386892,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 165911488,
+                "trafficSimSum": 295527136,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449472347
+            "latestDeviceMetricsTimestamp": 1729794831898
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -690,13 +690,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.96.80"
+        "externalIp": "177.51.89.1"
     },
     {
         "id": "UruaCU4D1C",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923757937,
-        "updatedTimestamp": 1729449487535,
+        "updatedTimestamp": 1729794847101,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 07",
@@ -710,28 +710,28 @@
                 "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 61,
+            "batteryLevel": 48,
             "isCharging": false,
-            "batteryVoltage": 3954,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3847,
+            "batteryTemperature": 29,
             "memory": {
                 "total": 3479,
-                "available": 1424,
+                "available": 1349,
                 "isLow": false,
-                "heapFree": 1,
+                "heapFree": 4,
                 "heapMax": 512,
                 "heapTotal": 27
             },
             "trafficCounters": {
-                "trafficSimTx": 946915382,
-                "trafficSimRx": 263757188,
+                "trafficSimTx": 1973099304,
+                "trafficSimRx": 493178358,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1211878464,
+                "trafficSimSum": 2468687904,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449487533
+            "latestDeviceMetricsTimestamp": 1729794847097
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -753,13 +753,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "189.40.73.118"
+        "externalIp": "177.51.92.117"
     },
     {
         "id": "WFo3zTBoZi",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923735457,
-        "updatedTimestamp": 1729449388428,
+        "updatedTimestamp": 1729794749116,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 06",
@@ -769,32 +769,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "LTE+ (MOBILE)",
-                "LTE+ (VPN)"
+                "LTE+ (VPN)",
+                "LTE+ (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 16,
+            "batteryLevel": 54,
             "isCharging": false,
-            "batteryVoltage": 3709,
-            "batteryTemperature": 27,
+            "batteryVoltage": 3887,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1298,
+                "available": 1293,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 8,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 32
             },
             "trafficCounters": {
-                "trafficSimTx": 64872892,
-                "trafficSimRx": 4822930,
+                "trafficSimTx": 971894930,
+                "trafficSimRx": 183015296,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 69693056,
+                "trafficSimSum": 1155475584,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449388425
+            "latestDeviceMetricsTimestamp": 1729794749114
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -816,13 +816,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.95.4"
+        "externalIp": "177.51.97.69"
     },
     {
         "id": "awLbXCX8RE",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923704667,
-        "updatedTimestamp": 1729449471240,
+        "updatedTimestamp": 1729794792322,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 05",
@@ -832,32 +832,33 @@
         "deviceMetrics": {
             "networkType": "HSPA",
             "networkTypes": [
-                "LTE+ (VPN)",
-                "LTE+ (MOBILE)"
+                "3G (MOBILE)",
+                "VPN",
+                "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 58,
+            "batteryLevel": 46,
             "isCharging": false,
-            "batteryVoltage": 3927,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3835,
+            "batteryTemperature": 29,
             "memory": {
                 "total": 3479,
-                "available": 1120,
+                "available": 1144,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 0,
                 "heapMax": 512,
-                "heapTotal": 27
+                "heapTotal": 22
             },
             "trafficCounters": {
-                "trafficSimTx": 12412765426,
-                "trafficSimRx": 2363231908,
+                "trafficSimTx": 519118734,
+                "trafficSimRx": 93241182,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 14777818336,
+                "trafficSimSum": 612691488,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449471239
+            "latestDeviceMetricsTimestamp": 1729794792320
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -885,7 +886,7 @@
         "id": "q7Ral6Sqhc",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923627511,
-        "updatedTimestamp": 1729449481618,
+        "updatedTimestamp": 1729794734560,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 04",
@@ -895,32 +896,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "VPN",
-                "4G (MOBILE)"
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 42,
+            "batteryLevel": 59,
             "isCharging": false,
-            "batteryVoltage": 3813,
-            "batteryTemperature": 26,
+            "batteryVoltage": 3943,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1141,
+                "available": 1246,
                 "isLow": false,
-                "heapFree": 3,
+                "heapFree": 2,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 18
             },
             "trafficCounters": {
-                "trafficSimTx": 1924405702,
-                "trafficSimRx": 660211854,
+                "trafficSimTx": 9663216,
+                "trafficSimRx": 956194,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 2585841440,
+                "trafficSimSum": 10624096,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449481614
+            "latestDeviceMetricsTimestamp": 1729794734558
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -942,13 +943,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.97.110"
+        "externalIp": "177.51.89.191"
     },
     {
         "id": "CnPnTCWv9P",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727923339910,
-        "updatedTimestamp": 1729449391248,
+        "updatedTimestamp": 1729794751809,
         "isRoot": false,
         "appVersion": "553",
         "name": "LAGUNA 03 ",
@@ -956,34 +957,34 @@
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
-            "networkType": "HSPA",
+            "networkType": "LTE",
             "networkTypes": [
                 "LTE+ (MOBILE)",
                 "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 62,
+            "batteryLevel": 38,
             "isCharging": false,
-            "batteryVoltage": 3967,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3799,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1227,
+                "available": 1236,
                 "isLow": false,
                 "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 21
+                "heapTotal": 22
             },
             "trafficCounters": {
-                "trafficSimTx": 109259090,
-                "trafficSimRx": 12228184,
+                "trafficSimTx": 1561258140,
+                "trafficSimRx": 301393266,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 121658016,
+                "trafficSimSum": 1863541568,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449391247
+            "latestDeviceMetricsTimestamp": 1729794751807
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1005,16 +1006,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.88.167"
+        "externalIp": "177.51.88.148"
     },
     {
         "id": "H4HfGN8MAb",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727921932121,
-        "updatedTimestamp": 1729449470874,
+        "updatedTimestamp": 1729794831434,
         "isRoot": false,
         "appVersion": "553",
-        "name": "LAGUNA 02 [48996027536]",
+        "name": "LAGUNA 02",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1025,28 +1026,28 @@
                 "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 28,
+            "batteryLevel": 58,
             "isCharging": false,
-            "batteryVoltage": 3756,
-            "batteryTemperature": 27,
+            "batteryVoltage": 3944,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1131,
+                "available": 1095,
                 "isLow": false,
-                "heapFree": 4,
+                "heapFree": 14,
                 "heapMax": 512,
                 "heapTotal": 30
             },
             "trafficCounters": {
-                "trafficSimTx": 1360000352,
-                "trafficSimRx": 255840854,
+                "trafficSimTx": 1427543118,
+                "trafficSimRx": 260119400,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1616932352,
+                "trafficSimSum": 1688753664,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449470873
+            "latestDeviceMetricsTimestamp": 1729794831431
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1068,49 +1069,48 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.91.220"
+        "externalIp": "177.51.97.196"
     },
     {
         "id": "DRfEx6CGAk",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727921892864,
-        "updatedTimestamp": 1729449437089,
+        "updatedTimestamp": 1729794732112,
         "isRoot": false,
         "appVersion": "553",
-        "name": "LAGUNA 01 [48996026337]",
+        "name": "LAGUNA 01",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
-            "networkType": "HSPA",
+            "networkType": "LTE",
             "networkTypes": [
-                "4G (MOBILE)",
-                "3G (MOBILE)",
-                "VPN"
+                "VPN",
+                "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 62,
+            "batteryLevel": 53,
             "isCharging": false,
-            "batteryVoltage": 3964,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3884,
+            "batteryTemperature": 29,
             "memory": {
                 "total": 3479,
-                "available": 1196,
+                "available": 1238,
                 "isLow": false,
-                "heapFree": 0,
+                "heapFree": 1,
                 "heapMax": 512,
-                "heapTotal": 26
+                "heapTotal": 22
             },
             "trafficCounters": {
-                "trafficSimTx": 4952103882,
-                "trafficSimRx": 1016312228,
+                "trafficSimTx": 227997524,
+                "trafficSimRx": 43130622,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 5973297568,
+                "trafficSimSum": 271253376,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449437087
+            "latestDeviceMetricsTimestamp": 1729794732110
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1132,16 +1132,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.99.119"
+        "externalIp": "177.51.89.143"
     },
     {
         "id": "q7nPdtZtCZ",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314829616,
-        "updatedTimestamp": 1729449464697,
+        "updatedTimestamp": 1729794781705,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 10 [55992258960]",
+        "name": "STA MARIA 10",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1154,26 +1154,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4411,
-            "batteryTemperature": 32,
+            "batteryVoltage": 4417,
+            "batteryTemperature": 29,
             "memory": {
                 "total": 3479,
-                "available": 1109,
+                "available": 1270,
                 "isLow": false,
-                "heapFree": 3,
+                "heapFree": 11,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 26
             },
             "trafficCounters": {
-                "trafficSimTx": 867909324,
-                "trafficSimRx": 158436060,
+                "trafficSimTx": 1026048612,
+                "trafficSimRx": 288694682,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1026573824,
+                "trafficSimSum": 1314796128,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449464695
+            "latestDeviceMetricsTimestamp": 1729794781704
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1195,48 +1195,48 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "181.77.35.66"
+        "externalIp": "181.77.30.29"
     },
     {
         "id": "xMBP8AqCOb",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314742041,
-        "updatedTimestamp": 1729449446314,
+        "updatedTimestamp": 1729716543242,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 09 [55992283157]",
+        "name": "STA MARIA 09",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
-            "networkType": "LTE",
+            "networkType": "WIFI",
             "networkTypes": [
-                "4G (MOBILE)",
+                "WIFI",
                 "VPN"
             ],
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4412,
-            "batteryTemperature": 33,
+            "batteryVoltage": 4422,
+            "batteryTemperature": 28,
             "memory": {
                 "total": 3479,
-                "available": 1221,
+                "available": 1272,
                 "isLow": false,
-                "heapFree": 1,
+                "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 20
+                "heapTotal": 18
             },
             "trafficCounters": {
-                "trafficSimTx": 67492746,
-                "trafficSimRx": 5047740,
-                "trafficWifiTx": 0,
-                "trafficWifiRx": 0,
-                "trafficSimSum": 72547488,
-                "trafficWifiSum": 0
+                "trafficSimTx": 0,
+                "trafficSimRx": 0,
+                "trafficWifiTx": 490466,
+                "trafficWifiRx": 43870,
+                "trafficSimSum": 0,
+                "trafficWifiSum": 534336
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449446313
+            "latestDeviceMetricsTimestamp": 1729716543241
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1257,17 +1257,17 @@
             "https://i.fxdx.in/api-rt/changeip/xMBP8AqCOb/xV6659YN86MM75NP7GPFW"
         ],
         "fingerprint": "none",
-        "online": true,
-        "externalIp": "181.77.34.240"
+        "online": false,
+        "externalIp": "187.107.41.144"
     },
     {
         "id": "e0M4LTNSGp",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314697323,
-        "updatedTimestamp": 1729449465085,
+        "updatedTimestamp": 1729794753533,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 08 [55992220075]",
+        "name": "STA MARIA 08 ",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1280,26 +1280,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4416,
-            "batteryTemperature": 33,
+            "batteryVoltage": 4421,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1213,
+                "available": 1245,
                 "isLow": false,
-                "heapFree": 2,
+                "heapFree": 9,
                 "heapMax": 512,
-                "heapTotal": 26
+                "heapTotal": 24
             },
             "trafficCounters": {
-                "trafficSimTx": 4514377010,
-                "trafficSimRx": 967972952,
+                "trafficSimTx": 717310714,
+                "trafficSimRx": 159559444,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 5483544832,
+                "trafficSimSum": 877302528,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449465083
+            "latestDeviceMetricsTimestamp": 1729794753531
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1321,16 +1321,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "181.77.33.151"
+        "externalIp": "181.77.30.44"
     },
     {
         "id": "FErB9jaCuq",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314570076,
-        "updatedTimestamp": 1729449453339,
+        "updatedTimestamp": 1729794833167,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 07 [55992330984]",
+        "name": "STA MARIA 07",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1343,26 +1343,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4414,
-            "batteryTemperature": 33,
+            "batteryVoltage": 4420,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3479,
-                "available": 1166,
+                "available": 1201,
                 "isLow": false,
-                "heapFree": 0,
+                "heapFree": 5,
                 "heapMax": 512,
-                "heapTotal": 27
+                "heapTotal": 20
             },
             "trafficCounters": {
-                "trafficSimTx": 1146369200,
-                "trafficSimRx": 284602330,
+                "trafficSimTx": 341523348,
+                "trafficSimRx": 65191152,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1431586432,
+                "trafficSimSum": 406793920,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449453337
+            "latestDeviceMetricsTimestamp": 1729794833165
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1384,16 +1384,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "181.77.34.54"
+        "externalIp": "181.77.33.86"
     },
     {
         "id": "qtCFPT4Sum",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314434528,
-        "updatedTimestamp": 1729449458148,
+        "updatedTimestamp": 1729794748464,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 06 [55992247101]",
+        "name": "STA MARIA 06",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1406,26 +1406,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4417,
-            "batteryTemperature": 34,
+            "batteryVoltage": 4423,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1258,
+                "available": 1247,
                 "isLow": false,
-                "heapFree": 5,
+                "heapFree": 7,
                 "heapMax": 512,
-                "heapTotal": 24
+                "heapTotal": 25
             },
             "trafficCounters": {
-                "trafficSimTx": 337002974,
-                "trafficSimRx": 52682960,
+                "trafficSimTx": 1128850732,
+                "trafficSimRx": 242576040,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 390128416,
+                "trafficSimSum": 1372877504,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449458146
+            "latestDeviceMetricsTimestamp": 1729794748463
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1447,16 +1447,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "181.77.32.247"
+        "externalIp": "181.77.31.29"
     },
     {
         "id": "MGC9jmWesT",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314337290,
-        "updatedTimestamp": 1729443830057,
+        "updatedTimestamp": 1729794805415,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 05 [55992292983]",
+        "name": "STA MARIA 05",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1467,28 +1467,28 @@
                 "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 1,
-            "isCharging": false,
-            "batteryVoltage": 3410,
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4416,
             "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1334,
+                "available": 1192,
                 "isLow": false,
-                "heapFree": 9,
+                "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 23
+                "heapTotal": 24
             },
             "trafficCounters": {
-                "trafficSimTx": 727507542,
-                "trafficSimRx": 114560750,
+                "trafficSimTx": 549797164,
+                "trafficSimRx": 137826804,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 843023680,
+                "trafficSimSum": 688201856,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729443830056
+            "latestDeviceMetricsTimestamp": 1729794805414
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1509,17 +1509,17 @@
             "https://i.fxdx.in/api-rt/changeip/MGC9jmWesT/xPVWSFPR6MCCYMFX9SYWH"
         ],
         "fingerprint": "none",
-        "online": false,
-        "externalIp": "181.77.37.81"
+        "online": true,
+        "externalIp": "181.77.30.165"
     },
     {
         "id": "CwBFM15kIc",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727314257256,
-        "updatedTimestamp": 1729449406178,
+        "updatedTimestamp": 1729794755204,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 04 [55992219044]",
+        "name": "STA MARIA 04",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1532,26 +1532,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4417,
-            "batteryTemperature": 35,
+            "batteryVoltage": 4422,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1534,
+                "available": 1557,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 7,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 21
             },
             "trafficCounters": {
-                "trafficSimTx": 3355483364,
-                "trafficSimRx": 705383546,
-                "trafficWifiTx": 0,
-                "trafficWifiRx": 0,
-                "trafficSimSum": 4062530784,
-                "trafficWifiSum": 0
+                "trafficSimTx": 144128712,
+                "trafficSimRx": 25562996,
+                "trafficWifiTx": 24643692,
+                "trafficWifiRx": 4761170,
+                "trafficSimSum": 169802656,
+                "trafficWifiSum": 29434976
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449406177
+            "latestDeviceMetricsTimestamp": 1729794755198
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1573,16 +1573,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "181.77.29.110"
+        "externalIp": "181.77.29.170"
     },
     {
         "id": "JGi7C2P5EK",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727313327049,
-        "updatedTimestamp": 1729449431812,
+        "updatedTimestamp": 1729794803113,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 03 [55992250544]",
+        "name": "STA MARIA 03",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -1595,26 +1595,26 @@
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4414,
-            "batteryTemperature": 33,
+            "batteryVoltage": 4417,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1228,
+                "available": 1168,
                 "isLow": false,
-                "heapFree": 9,
+                "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 24
+                "heapTotal": 26
             },
             "trafficCounters": {
-                "trafficSimTx": 880698988,
-                "trafficSimRx": 175342180,
+                "trafficSimTx": 1480609254,
+                "trafficSimRx": 390605998,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1056586816,
+                "trafficSimSum": 1872273376,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449431811
+            "latestDeviceMetricsTimestamp": 1729794803112
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1636,48 +1636,48 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "181.77.37.45"
+        "externalIp": "181.77.34.217"
     },
     {
         "id": "dED69WAwSo",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727312749127,
-        "updatedTimestamp": 1729449412288,
+        "updatedTimestamp": 1729790889260,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 02 [55992276176]",
+        "name": "STA MARIA 02",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
-            "networkType": "LTE",
+            "networkType": "WIFI",
             "networkTypes": [
-                "4G (MOBILE)",
+                "WIFI",
                 "VPN"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
-            "isCharging": true,
-            "batteryVoltage": 4420,
-            "batteryTemperature": 35,
+            "batteryLevel": 76,
+            "isCharging": false,
+            "batteryVoltage": 4122,
+            "batteryTemperature": 25,
             "memory": {
                 "total": 3479,
-                "available": 1232,
+                "available": 1476,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 0,
                 "heapMax": 512,
-                "heapTotal": 23
+                "heapTotal": 7
             },
             "trafficCounters": {
-                "trafficSimTx": 2978405046,
-                "trafficSimRx": 600522010,
+                "trafficSimTx": 0,
+                "trafficSimRx": 0,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 3579438912,
+                "trafficSimSum": 0,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449412285
+            "latestDeviceMetricsTimestamp": 1729790889258
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1698,49 +1698,49 @@
             "https://i.fxdx.in/api-rt/changeip/dED69WAwSo/xT8SHERXX8FRBPB5MCP5F"
         ],
         "fingerprint": "none",
-        "online": true,
-        "externalIp": "181.77.39.67"
+        "online": false,
+        "externalIp": "187.107.41.144"
     },
     {
         "id": "u8Q1MpJYR7",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727312203623,
-        "updatedTimestamp": 1729449478891,
+        "updatedTimestamp": 1729794786927,
         "isRoot": false,
         "appVersion": "553",
-        "name": "STA MARIA 01 [55992268291]",
+        "name": "STA MARIA 01",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "LTE+ (MOBILE)",
-                "LTE+ (VPN)"
+                "VPN",
+                "4G (MOBILE)"
             ],
             "batteryHealth": "good",
             "batteryLevel": 100,
             "isCharging": true,
-            "batteryVoltage": 4413,
-            "batteryTemperature": 33,
+            "batteryVoltage": 4412,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1285,
+                "available": 1189,
                 "isLow": false,
-                "heapFree": 6,
+                "heapFree": 5,
                 "heapMax": 512,
-                "heapTotal": 17
+                "heapTotal": 21
             },
             "trafficCounters": {
-                "trafficSimTx": 56034468,
-                "trafficSimRx": 3550044,
+                "trafficSimTx": 1540813692,
+                "trafficSimRx": 296569920,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 59584512,
+                "trafficSimSum": 1837844128,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449478890
+            "latestDeviceMetricsTimestamp": 1729794748594
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -1762,54 +1762,53 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "191.38.220.177"
+        "externalIp": "181.77.37.166"
     },
     {
         "id": "uhTx8XDzNi",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727147125062,
-        "updatedTimestamp": 1729449471900,
+        "updatedTimestamp": 1729794745372,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 10 [45999163356]",
+        "name": "FOZ 10",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
-            "networkType": "HSDPA",
+            "networkType": "LTE",
             "networkTypes": [
-                "3G (MOBILE)",
-                "4G (MOBILE)",
-                "VPN"
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 52,
+            "batteryLevel": 56,
             "isCharging": false,
-            "batteryVoltage": 3875,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3905,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1317,
+                "available": 1242,
                 "isLow": false,
-                "heapFree": 1,
+                "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 21
+                "heapTotal": 25
             },
             "trafficCounters": {
-                "trafficSimTx": 626123164,
-                "trafficSimRx": 129055660,
+                "trafficSimTx": 992354432,
+                "trafficSimRx": 258590624,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 756301536,
+                "trafficSimSum": 1254486336,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449471899
+            "latestDeviceMetricsTimestamp": 1729794745371
         },
         "ipChangeEnabled": false,
         "planDetails": {
-            "message": "BigDaddy active till 24.10.2024",
-            "expirationTimestamp": 1729739325734,
+            "message": "BigDaddy active till 23.11.2024",
+            "expirationTimestamp": 1732331863881,
             "plan": {
                 "name": "BigDaddy",
                 "bits_per_sec_in": 25000000,
@@ -1826,13 +1825,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.204.189"
+        "externalIp": "177.51.210.166"
     },
     {
         "id": "skNe1C8Gj5",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727124875940,
-        "updatedTimestamp": 1729449499910,
+        "updatedTimestamp": 1729794739523,
         "isRoot": false,
         "appVersion": "553",
         "name": "CORN\u00c9LIO 05",
@@ -1846,33 +1845,33 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 44,
-            "isCharging": true,
-            "batteryVoltage": 3936,
-            "batteryTemperature": 37,
+            "batteryLevel": 82,
+            "isCharging": false,
+            "batteryVoltage": 4116,
+            "batteryTemperature": 29,
             "memory": {
                 "total": 3579,
-                "available": 1280,
+                "available": 1183,
                 "isLow": false,
-                "heapFree": 0,
+                "heapFree": 2,
                 "heapMax": 512,
-                "heapTotal": 32
+                "heapTotal": 30
             },
             "trafficCounters": {
-                "trafficSimTx": 1513234822,
-                "trafficSimRx": 585500882,
+                "trafficSimTx": 2591431144,
+                "trafficSimRx": 943283792,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 2100522592,
+                "trafficSimSum": 3536902624,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "TIMBRASIL",
-            "latestDeviceMetricsTimestamp": 1729449499908
+            "latestDeviceMetricsTimestamp": 1729794739522
         },
         "ipChangeEnabled": false,
         "planDetails": {
-            "message": "BigDaddy active till 23.10.2024",
-            "expirationTimestamp": 1729716885930,
+            "message": "BigDaddy active till 22.11.2024",
+            "expirationTimestamp": 1732309818374,
             "plan": {
                 "name": "BigDaddy",
                 "bits_per_sec_in": 25000000,
@@ -1889,13 +1888,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.124.139"
+        "externalIp": "177.51.125.190"
     },
     {
         "id": "fhSswd4Lvu",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727124732249,
-        "updatedTimestamp": 1729449428830,
+        "updatedTimestamp": 1729794788704,
         "isRoot": false,
         "appVersion": "553",
         "name": "CORN\u00c9LIO 04",
@@ -1910,32 +1909,32 @@
             ],
             "batteryHealth": "good",
             "batteryLevel": 96,
-            "isCharging": true,
-            "batteryVoltage": 4323,
-            "batteryTemperature": 41,
+            "isCharging": false,
+            "batteryVoltage": 4287,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1444,
+                "available": 1586,
                 "isLow": false,
-                "heapFree": 9,
+                "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 25
+                "heapTotal": 11
             },
             "trafficCounters": {
-                "trafficSimTx": 3341240886,
-                "trafficSimRx": 802428378,
+                "trafficSimTx": 0,
+                "trafficSimRx": 0,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 4152911584,
+                "trafficSimSum": 0,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "TIMBRASIL",
-            "latestDeviceMetricsTimestamp": 1729449428829
+            "latestDeviceMetricsTimestamp": 1729794788702
         },
         "ipChangeEnabled": false,
         "planDetails": {
-            "message": "BigDaddy active till 23.10.2024",
-            "expirationTimestamp": 1729716811814,
+            "message": "BigDaddy active till 22.11.2024",
+            "expirationTimestamp": 1732308849424,
             "plan": {
                 "name": "BigDaddy",
                 "bits_per_sec_in": 25000000,
@@ -1951,14 +1950,14 @@
             "https://i.fxdx.in/api-rt/changeip/fhSswd4Lvu/xYASC8RWFKKNV9NW4BARY"
         ],
         "fingerprint": "none",
-        "online": true,
-        "externalIp": "177.51.127.114"
+        "online": false,
+        "externalIp": "177.51.123.35"
     },
     {
         "id": "ZbVQuhZZPn",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1727124257597,
-        "updatedTimestamp": 1729449494106,
+        "updatedTimestamp": 1729794733778,
         "isRoot": false,
         "appVersion": "553",
         "name": "CORN\u00c9LIO 03",
@@ -1972,33 +1971,33 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 89,
-            "isCharging": true,
-            "batteryVoltage": 4135,
-            "batteryTemperature": 42,
+            "batteryLevel": 95,
+            "isCharging": false,
+            "batteryVoltage": 4262,
+            "batteryTemperature": 33,
             "memory": {
                 "total": 3579,
-                "available": 1474,
+                "available": 1429,
                 "isLow": false,
-                "heapFree": 11,
+                "heapFree": 8,
                 "heapMax": 512,
-                "heapTotal": 34
+                "heapTotal": 31
             },
             "trafficCounters": {
-                "trafficSimTx": 5909498666,
-                "trafficSimRx": 1160338678,
+                "trafficSimTx": 9189149632,
+                "trafficSimRx": 1845662374,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 7074511392,
+                "trafficSimSum": 11042238016,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "TIMBRASIL",
-            "latestDeviceMetricsTimestamp": 1729449494105
+            "latestDeviceMetricsTimestamp": 1729794733775
         },
         "ipChangeEnabled": false,
         "planDetails": {
-            "message": "BigDaddy active till 23.10.2024",
-            "expirationTimestamp": 1729716708192,
+            "message": "BigDaddy active till 22.11.2024",
+            "expirationTimestamp": 1732308849191,
             "plan": {
                 "name": "BigDaddy",
                 "bits_per_sec_in": 25000000,
@@ -2015,48 +2014,48 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.123.253"
+        "externalIp": "177.51.126.173"
     },
     {
         "id": "1jizufm7SU",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1723836986953,
-        "updatedTimestamp": 1729128018262,
+        "updatedTimestamp": 1729794732418,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 09 [45999674069]",
+        "name": "FOZ 09",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "VPN",
-                "4G (MOBILE)"
+                "4G (MOBILE)",
+                "VPN"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
-            "isCharging": true,
-            "batteryVoltage": 4422,
-            "batteryTemperature": 29,
+            "batteryLevel": 54,
+            "isCharging": false,
+            "batteryVoltage": 3897,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1006,
+                "available": 1105,
                 "isLow": false,
-                "heapFree": 13,
+                "heapFree": 9,
                 "heapMax": 512,
-                "heapTotal": 29
+                "heapTotal": 25
             },
             "trafficCounters": {
-                "trafficSimTx": 5613189964,
-                "trafficSimRx": 1555236892,
+                "trafficSimTx": 34076590,
+                "trafficSimRx": 2158674,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 7171668320,
+                "trafficSimSum": 36235264,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729128018261
+            "latestDeviceMetricsTimestamp": 1729794732416
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2077,14 +2076,14 @@
             "https://i.fxdx.in/api-rt/changeip/1jizufm7SU/x9RK9EMVPARMY3KR6YYAH"
         ],
         "fingerprint": "none",
-        "online": false,
-        "externalIp": "189.40.70.245"
+        "online": true,
+        "externalIp": "189.40.68.124"
     },
     {
         "id": "gz5mePhQBj",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1723595491643,
-        "updatedTimestamp": 1729449385438,
+        "updatedTimestamp": 1729794776122,
         "isRoot": false,
         "appVersion": "553",
         "name": "RECIFE 04",
@@ -2094,32 +2093,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "5G (MOBILE)",
-                "5G (VPN)"
+                "5G (VPN)",
+                "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
-            "isCharging": true,
-            "batteryVoltage": 4432,
-            "batteryTemperature": 35,
+            "batteryLevel": 94,
+            "isCharging": false,
+            "batteryVoltage": 4347,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 7398,
-                "available": 3901,
+                "available": 3716,
                 "isLow": false,
-                "heapFree": 1,
+                "heapFree": 8,
                 "heapMax": 512,
-                "heapTotal": 17
+                "heapTotal": 23
             },
             "trafficCounters": {
-                "trafficSimTx": 3749922,
-                "trafficSimRx": 237534,
+                "trafficSimTx": 814388086,
+                "trafficSimRx": 279480024,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 3987456,
+                "trafficSimSum": 1094545568,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449385437
+            "latestDeviceMetricsTimestamp": 1729794776120
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2141,13 +2140,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.173.225.9"
+        "externalIp": "177.173.227.162"
     },
     {
         "id": "JllxemcEGs",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1723595334948,
-        "updatedTimestamp": 1729449386895,
+        "updatedTimestamp": 1729794818496,
         "isRoot": false,
         "appVersion": "552",
         "name": "RECIFE 03",
@@ -2161,28 +2160,28 @@
                 "5G (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
+            "batteryLevel": 72,
             "isCharging": true,
-            "batteryVoltage": 4435,
+            "batteryVoltage": 4204,
             "batteryTemperature": 37,
             "memory": {
                 "total": 7392,
-                "available": 3994,
+                "available": 4052,
                 "isLow": false,
-                "heapFree": 5,
+                "heapFree": 1,
                 "heapMax": 512,
-                "heapTotal": 18
+                "heapTotal": 16
             },
             "trafficCounters": {
-                "trafficSimTx": 260868652,
-                "trafficSimRx": 64662450,
+                "trafficSimTx": 1669842,
+                "trafficSimRx": 105774,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 325709536,
+                "trafficSimSum": 1775616,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449386893
+            "latestDeviceMetricsTimestamp": 1729794818494
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2204,16 +2203,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.173.228.174"
+        "externalIp": "177.173.231.115"
     },
     {
         "id": "8X0MYA4Zyc",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1722904933698,
-        "updatedTimestamp": 1729369793271,
+        "updatedTimestamp": 1729479895223,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 08 [45999822763]",
+        "name": "xxxxxxxxxxxxxxxxxxxxxxx",
         "description": null,
         "deviceManufacturer": "samsung",
         "deviceModel": "SM-G990E",
@@ -2274,42 +2273,42 @@
         "id": "ru5H8naU8T",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1718659173115,
-        "updatedTimestamp": 1729449431142,
+        "updatedTimestamp": 1729794752964,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 07 [45998249498]",
+        "name": "FOZ 07",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "VPN",
-                "4G (MOBILE)"
+                "4G (MOBILE)",
+                "VPN"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 41,
+            "batteryLevel": 36,
             "isCharging": false,
-            "batteryVoltage": 3816,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3792,
+            "batteryTemperature": 30,
             "memory": {
                 "total": 3479,
-                "available": 1047,
+                "available": 1176,
                 "isLow": false,
-                "heapFree": 7,
+                "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 19
+                "heapTotal": 20
             },
             "trafficCounters": {
-                "trafficSimTx": 126353224,
-                "trafficSimRx": 21112042,
+                "trafficSimTx": 59002820,
+                "trafficSimRx": 12787708,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 147560768,
+                "trafficSimSum": 71812000,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449431141
+            "latestDeviceMetricsTimestamp": 1729794752961
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2331,16 +2330,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "189.40.71.122"
+        "externalIp": "177.51.202.162"
     },
     {
         "id": "y7rxlAfGZg",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1718159698169,
-        "updatedTimestamp": 1729449393646,
+        "updatedTimestamp": 1729794753988,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 06 [45998117669]",
+        "name": "FOZ 06",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -2351,28 +2350,28 @@
                 "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 97,
+            "batteryLevel": 58,
             "isCharging": false,
-            "batteryVoltage": 4378,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3938,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1053,
+                "available": 1163,
                 "isLow": false,
-                "heapFree": 5,
+                "heapFree": 8,
                 "heapMax": 512,
-                "heapTotal": 20
+                "heapTotal": 25
             },
             "trafficCounters": {
-                "trafficSimTx": 219363276,
-                "trafficSimRx": 14719064,
+                "trafficSimTx": 768233818,
+                "trafficSimRx": 149396786,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 234080544,
+                "trafficSimSum": 918624960,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449393645
+            "latestDeviceMetricsTimestamp": 1729794753986
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2400,10 +2399,10 @@
         "id": "p1jav7PzLL",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1718156671386,
-        "updatedTimestamp": 1729449502791,
+        "updatedTimestamp": 1729794743173,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 05 [45999184480]",
+        "name": "FOZ 05",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -2414,28 +2413,28 @@
                 "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 44,
+            "batteryLevel": 43,
             "isCharging": false,
-            "batteryVoltage": 3827,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3824,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3479,
-                "available": 1206,
+                "available": 1165,
                 "isLow": false,
-                "heapFree": 0,
+                "heapFree": 9,
                 "heapMax": 512,
-                "heapTotal": 19
+                "heapTotal": 18
             },
             "trafficCounters": {
-                "trafficSimTx": 70528400,
-                "trafficSimRx": 5328368,
+                "trafficSimTx": 190501536,
+                "trafficSimRx": 16995690,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 75857632,
+                "trafficSimSum": 207547296,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449502789
+            "latestDeviceMetricsTimestamp": 1729794743171
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2463,7 +2462,7 @@
         "id": "7oqir5bIBj",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1718137364853,
-        "updatedTimestamp": 1729449402449,
+        "updatedTimestamp": 1729794843455,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 03",
@@ -2477,28 +2476,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 68,
+            "batteryLevel": 19,
             "isCharging": false,
-            "batteryVoltage": 3972,
-            "batteryTemperature": 35,
+            "batteryVoltage": 3710,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1311,
+                "available": 1371,
                 "isLow": false,
                 "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 19
+                "heapTotal": 24
             },
             "trafficCounters": {
-                "trafficSimTx": 230129908,
-                "trafficSimRx": 64991450,
+                "trafficSimTx": 1858916338,
+                "trafficSimRx": 488136792,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 295393408,
+                "trafficSimSum": 2348688096,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449402447
+            "latestDeviceMetricsTimestamp": 1729794843453
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2520,48 +2519,48 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.25.121.61"
+        "externalIp": "179.224.188.41"
     },
     {
         "id": "vhCsVYS2iH",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1714509414730,
-        "updatedTimestamp": 1729365003435,
+        "updatedTimestamp": 1729794827205,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 04 [45998622049]",
+        "name": "FOZ 04",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "4G (MOBILE)",
-                "VPN"
+                "LTE+ (MOBILE)",
+                "LTE+ (VPN)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 29,
+            "batteryLevel": 48,
             "isCharging": false,
-            "batteryVoltage": 3778,
-            "batteryTemperature": 27,
+            "batteryVoltage": 3857,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1157,
+                "available": 1051,
                 "isLow": false,
-                "heapFree": 7,
+                "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 24
+                "heapTotal": 21
             },
             "trafficCounters": {
-                "trafficSimTx": 952744434,
-                "trafficSimRx": 189788988,
+                "trafficSimTx": 109025598,
+                "trafficSimRx": 10429922,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1142579776,
+                "trafficSimSum": 119630624,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729361786135
+            "latestDeviceMetricsTimestamp": 1729794827203
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2582,49 +2581,49 @@
             "https://i.fxdx.in/api-rt/changeip/vhCsVYS2iH/xESHAWVC6HVHCNCG4P8YE"
         ],
         "fingerprint": "none",
-        "online": false,
-        "externalIp": "189.40.69.73"
+        "online": true,
+        "externalIp": "189.40.69.188"
     },
     {
         "id": "qTDevMInOC",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1714508829683,
-        "updatedTimestamp": 1729365163206,
+        "updatedTimestamp": 1729794781625,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 03 [45998622043]",
+        "name": "FOZ 03",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
-            "networkType": "WIFI",
+            "networkType": "LTE",
             "networkTypes": [
-                "LTE+ (MOBILE)",
-                "LTE+ (WIFI)"
+                "LTE+ (VPN)",
+                "LTE+ (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 14,
+            "batteryLevel": 47,
             "isCharging": false,
-            "batteryVoltage": 3613,
+            "batteryVoltage": 3841,
             "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1203,
+                "available": 1288,
                 "isLow": false,
-                "heapFree": 8,
+                "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 43
+                "heapTotal": 20
             },
             "trafficCounters": {
-                "trafficSimTx": 0,
-                "trafficSimRx": 0,
-                "trafficWifiTx": 0,
-                "trafficWifiRx": 0,
-                "trafficSimSum": 0,
-                "trafficWifiSum": 0
+                "trafficSimTx": 110281498,
+                "trafficSimRx": 10294210,
+                "trafficWifiTx": 30884,
+                "trafficWifiRx": 1500,
+                "trafficSimSum": 120589056,
+                "trafficWifiSum": 32384
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729365107891
+            "latestDeviceMetricsTimestamp": 1729794781624
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2645,14 +2644,14 @@
             "https://i.fxdx.in/api-rt/changeip/qTDevMInOC/xG6PMWTEEM6PYGRN3YMS9"
         ],
         "fingerprint": "none",
-        "online": false,
-        "externalIp": "177.220.173.51"
+        "online": true,
+        "externalIp": "189.40.71.94"
     },
     {
         "id": "QdRY2oY973",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1714423244058,
-        "updatedTimestamp": 1729449402730,
+        "updatedTimestamp": 1729794741050,
         "isRoot": false,
         "appVersion": "553",
         "name": "RECIFE 02",
@@ -2666,28 +2665,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 86,
+            "batteryLevel": 91,
             "isCharging": false,
-            "batteryVoltage": 4180,
-            "batteryTemperature": 35,
+            "batteryVoltage": 4215,
+            "batteryTemperature": 34,
             "memory": {
                 "total": 3579,
-                "available": 1302,
+                "available": 1167,
                 "isLow": false,
-                "heapFree": 3,
+                "heapFree": 4,
                 "heapMax": 512,
-                "heapTotal": 24
+                "heapTotal": 21
             },
             "trafficCounters": {
-                "trafficSimTx": 2622447614,
-                "trafficSimRx": 544197880,
+                "trafficSimTx": 3148102502,
+                "trafficSimRx": 647971616,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 3167282432,
+                "trafficSimSum": 3797580384,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449402727
+            "latestDeviceMetricsTimestamp": 1729794741048
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2709,13 +2708,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.173.232.224"
+        "externalIp": "177.173.229.244"
     },
     {
         "id": "m6ULzoykno",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713386020106,
-        "updatedTimestamp": 1729449436111,
+        "updatedTimestamp": 1729794796150,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 01",
@@ -2729,28 +2728,28 @@
                 "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 34,
+            "batteryLevel": 83,
             "isCharging": false,
-            "batteryVoltage": 3780,
+            "batteryVoltage": 4119,
             "batteryTemperature": 33,
             "memory": {
                 "total": 3638,
-                "available": 1332,
+                "available": 1420,
                 "isLow": false,
-                "heapFree": 4,
+                "heapFree": 9,
                 "heapMax": 512,
-                "heapTotal": 22
+                "heapTotal": 23
             },
             "trafficCounters": {
-                "trafficSimTx": 4326303310,
-                "trafficSimRx": 980974630,
+                "trafficSimTx": 6398513692,
+                "trafficSimRx": 1401675004,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 5309109056,
+                "trafficSimSum": 7802637792,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449436108
+            "latestDeviceMetricsTimestamp": 1729794796148
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2772,13 +2771,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "179.224.178.9"
+        "externalIp": "177.25.115.219"
     },
     {
         "id": "FdBeEsQAi8",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713381923378,
-        "updatedTimestamp": 1729449421673,
+        "updatedTimestamp": 1729794743948,
         "isRoot": false,
         "appVersion": "553",
         "name": "RECIFE 01",
@@ -2788,32 +2787,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "5G (MOBILE)",
-                "5G (VPN)"
+                "5G (VPN)",
+                "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 87,
-            "isCharging": false,
-            "batteryVoltage": 4174,
-            "batteryTemperature": 34,
+            "batteryLevel": 100,
+            "isCharging": true,
+            "batteryVoltage": 4347,
+            "batteryTemperature": 33,
             "memory": {
                 "total": 3579,
-                "available": 1409,
+                "available": 1251,
                 "isLow": false,
                 "heapFree": 3,
                 "heapMax": 512,
-                "heapTotal": 16
+                "heapTotal": 17
             },
             "trafficCounters": {
-                "trafficSimTx": 20055438,
-                "trafficSimRx": 1270386,
+                "trafficSimTx": 1583172,
+                "trafficSimRx": 100284,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 21325824,
+                "trafficSimSum": 1683456,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449421672
+            "latestDeviceMetricsTimestamp": 1729794743945
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2835,13 +2834,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.173.225.207"
+        "externalIp": "177.173.231.217"
     },
     {
         "id": "mBLhtIjWfK",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713379572448,
-        "updatedTimestamp": 1729449454274,
+        "updatedTimestamp": 1729794825189,
         "isRoot": false,
         "appVersion": "553",
         "name": "FORTALEZA 02",
@@ -2851,32 +2850,32 @@
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "4G (MOBILE)",
-                "VPN"
+                "VPN",
+                "4G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 46,
+            "batteryLevel": 43,
             "isCharging": false,
-            "batteryVoltage": 3819,
+            "batteryVoltage": 3793,
             "batteryTemperature": 33,
             "memory": {
                 "total": 3638,
-                "available": 1368,
+                "available": 1241,
                 "isLow": false,
-                "heapFree": 5,
+                "heapFree": 9,
                 "heapMax": 512,
-                "heapTotal": 28
+                "heapTotal": 20
             },
             "trafficCounters": {
-                "trafficSimTx": 9646820178,
-                "trafficSimRx": 2086280460,
+                "trafficSimTx": 324839002,
+                "trafficSimRx": 59165356,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 11740807392,
+                "trafficSimSum": 384689152,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Vivo",
-            "latestDeviceMetricsTimestamp": 1729449454273
+            "latestDeviceMetricsTimestamp": 1729794825186
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2898,16 +2897,16 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "179.224.177.179"
+        "externalIp": "179.224.188.68"
     },
     {
         "id": "Oex5BtAZsI",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713376427460,
-        "updatedTimestamp": 1729449449464,
+        "updatedTimestamp": 1729794810095,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 02 [45999331935]",
+        "name": "FOZ 02",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
@@ -2918,28 +2917,28 @@
                 "VPN"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 100,
-            "isCharging": true,
-            "batteryVoltage": 4418,
-            "batteryTemperature": 28,
+            "batteryLevel": 56,
+            "isCharging": false,
+            "batteryVoltage": 3915,
+            "batteryTemperature": 31,
             "memory": {
                 "total": 3479,
-                "available": 1180,
+                "available": 1111,
                 "isLow": false,
-                "heapFree": 7,
+                "heapFree": 1,
                 "heapMax": 512,
-                "heapTotal": 18
+                "heapTotal": 19
             },
             "trafficCounters": {
-                "trafficSimTx": 1398276,
-                "trafficSimRx": 88572,
+                "trafficSimTx": 67244172,
+                "trafficSimRx": 4259700,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1486848,
+                "trafficSimSum": 71503872,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449449463
+            "latestDeviceMetricsTimestamp": 1729794810093
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -2961,13 +2960,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.195.3"
+        "externalIp": "177.51.199.149"
     },
     {
         "id": "axczP1I6iS",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713225868618,
-        "updatedTimestamp": 1729449489900,
+        "updatedTimestamp": 1729794730013,
         "isRoot": false,
         "appVersion": "553",
         "name": "CORN\u00c9LIO 02",
@@ -2981,28 +2980,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 75,
-            "isCharging": true,
-            "batteryVoltage": 4061,
-            "batteryTemperature": 43,
+            "batteryLevel": 95,
+            "isCharging": false,
+            "batteryVoltage": 4259,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3579,
-                "available": 1697,
+                "available": 1531,
                 "isLow": false,
                 "heapFree": 6,
                 "heapMax": 512,
-                "heapTotal": 23
+                "heapTotal": 24
             },
             "trafficCounters": {
-                "trafficSimTx": 2694418512,
-                "trafficSimRx": 875905726,
+                "trafficSimTx": 8269230298,
+                "trafficSimRx": 2357875608,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 3576790784,
+                "trafficSimSum": 10643547520,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "TIMBRASIL",
-            "latestDeviceMetricsTimestamp": 1729449489898
+            "latestDeviceMetricsTimestamp": 1729794730011
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -3024,48 +3023,48 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.126.101"
+        "externalIp": "177.51.122.98"
     },
     {
         "id": "A3aeXeSoNo",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713063874744,
-        "updatedTimestamp": 1729449418087,
+        "updatedTimestamp": 1729794773569,
         "isRoot": false,
         "appVersion": "553",
-        "name": "FOZ 01 [45999744512]",
+        "name": "FOZ 01",
         "description": null,
         "deviceManufacturer": "Xiaomi",
         "deviceModel": "23076RN8DY",
         "deviceMetrics": {
             "networkType": "LTE",
             "networkTypes": [
-                "LTE+ (VPN)",
-                "LTE+ (MOBILE)"
+                "4G (MOBILE)",
+                "VPN"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 99,
+            "batteryLevel": 35,
             "isCharging": false,
-            "batteryVoltage": 4391,
-            "batteryTemperature": 28,
+            "batteryVoltage": 3795,
+            "batteryTemperature": 32,
             "memory": {
                 "total": 3479,
-                "available": 1137,
+                "available": 1181,
                 "isLow": false,
-                "heapFree": 4,
+                "heapFree": 1,
                 "heapMax": 512,
                 "heapTotal": 19
             },
             "trafficCounters": {
-                "trafficSimTx": 301526676,
-                "trafficSimRx": 47216876,
+                "trafficSimTx": 836818908,
+                "trafficSimRx": 160543702,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 349432928,
+                "trafficSimSum": 998097440,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "Unknown",
-            "latestDeviceMetricsTimestamp": 1729449418085
+            "latestDeviceMetricsTimestamp": 1729794773568
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -3087,13 +3086,13 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.206.145"
+        "externalIp": "189.40.70.191"
     },
     {
         "id": "kDHK6Aww9W",
         "userId": "J6XhhwsTkq",
         "createdTimestamp": 1713052060520,
-        "updatedTimestamp": 1729449384549,
+        "updatedTimestamp": 1729794744696,
         "isRoot": false,
         "appVersion": "553",
         "name": "CORN\u00c9LIO 01",
@@ -3107,28 +3106,28 @@
                 "5G (MOBILE)"
             ],
             "batteryHealth": "good",
-            "batteryLevel": 96,
-            "isCharging": true,
-            "batteryVoltage": 4198,
-            "batteryTemperature": 42,
+            "batteryLevel": 93,
+            "isCharging": false,
+            "batteryVoltage": 4258,
+            "batteryTemperature": 33,
             "memory": {
                 "total": 3579,
-                "available": 1326,
+                "available": 1264,
                 "isLow": false,
-                "heapFree": 13,
+                "heapFree": 0,
                 "heapMax": 512,
                 "heapTotal": 31
             },
             "trafficCounters": {
-                "trafficSimTx": 938577112,
-                "trafficSimRx": 315958882,
+                "trafficSimTx": 1369111860,
+                "trafficSimRx": 436521068,
                 "trafficWifiTx": 0,
                 "trafficWifiRx": 0,
-                "trafficSimSum": 1255064032,
+                "trafficSimSum": 1806153376,
                 "trafficWifiSum": 0
             },
             "networkOperatorName": "TIMBRASIL",
-            "latestDeviceMetricsTimestamp": 1729449384548
+            "latestDeviceMetricsTimestamp": 1729794744693
         },
         "ipChangeEnabled": false,
         "planDetails": {
@@ -3150,6 +3149,6 @@
         ],
         "fingerprint": "none",
         "online": true,
-        "externalIp": "177.51.120.209"
+        "externalIp": "177.51.125.11"
     }
 ]
