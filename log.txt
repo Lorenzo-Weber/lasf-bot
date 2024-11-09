@@ -1,0 +1,24 @@
+Proxy Be31dcIgCo / LAGUNA 10 failed at 11/08/24/26  22:26:26
+Proxy 9439jXPiiQ / LAGUNA 09 failed at 11/08/24/26  22:26:26
+Proxy 15Ame8aUrh / LAGUNA 08 failed at 11/08/24/26  22:26:26
+Proxy awLbXCX8RE / LAGUNA 05 failed at 11/08/24/26  22:26:26
+Proxy FErB9jaCuq / STA MARIA 07 failed at 11/08/24/26  22:26:26
+Proxy 8X0MYA4Zyc /  xxxxxxxxxxxxxxxxxxxxxxx failed at 11/08/24/26  22:26:26
+Proxy Be31dcIgCo / LAGUNA 10 failed at 11/08/24/26  22:26:58
+Proxy 9439jXPiiQ / LAGUNA 09 failed at 11/08/24/26  22:26:58
+Proxy 15Ame8aUrh / LAGUNA 08 failed at 11/08/24/26  22:26:58
+Proxy awLbXCX8RE / LAGUNA 05 failed at 11/08/24/26  22:26:58
+Proxy FErB9jaCuq / STA MARIA 07 failed at 11/08/24/26  22:26:58
+Proxy 8X0MYA4Zyc /  xxxxxxxxxxxxxxxxxxxxxxx failed at 11/08/24/26  22:26:58
+Proxy Be31dcIgCo / LAGUNA 10 failed at 11/08/24/27  22:27:32
+Proxy 9439jXPiiQ / LAGUNA 09 failed at 11/08/24/27  22:27:32
+Proxy 15Ame8aUrh / LAGUNA 08 failed at 11/08/24/27  22:27:32
+Proxy awLbXCX8RE / LAGUNA 05 failed at 11/08/24/27  22:27:32
+Proxy FErB9jaCuq / STA MARIA 07 failed at 11/08/24/27  22:27:32
+Proxy 8X0MYA4Zyc /  xxxxxxxxxxxxxxxxxxxxxxx failed at 11/08/24/27  22:27:32
+Proxy Be31dcIgCo / LAGUNA 10 failed at 08/11  22:29:59
+Proxy 9439jXPiiQ / LAGUNA 09 failed at 08/11  22:29:59
+Proxy 15Ame8aUrh / LAGUNA 08 failed at 08/11  22:29:59
+Proxy awLbXCX8RE / LAGUNA 05 failed at 08/11  22:29:59
+Proxy FErB9jaCuq / STA MARIA 07 failed at 08/11  22:29:59
+Proxy 8X0MYA4Zyc /  xxxxxxxxxxxxxxxxxxxxxxx failed at 08/11  22:29:59

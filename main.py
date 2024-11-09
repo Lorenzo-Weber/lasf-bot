@@ -1,6 +1,6 @@
 import json
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 from proxy import Proxy
 from data.API import run
 from message import Message
@@ -40,7 +40,7 @@ if __name__ == "__main__":
                     failed[proxy.id]['count'] = 0
 
                 # Registra no log o proxy que falhou
-                timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
+                timeStamp = datetime.now().strftime("%d/%m  %H:%M:%S")
                 with open('log.txt', 'a') as log:
                     log.write(f'Proxy {proxy.id} / {proxy.region} {proxy.name} failed at {timeStamp}\n')
 
@@ -48,11 +48,11 @@ if __name__ == "__main__":
         for s in sender:
             region = f'PROXY {s.region}'
             sent = send(region, s.__str__())
-            timeStamp = datetime.now().strftime("%D/%M  %H:%M:%S")
+            timeStamp = datetime.now().strftime("%d/%m  %H:%M:%S")
             with open('log.txt', 'a') as log:
                 if sent: 
                     log.write(f"Message sent to {s.region} {s.name} at {timeStamp}\n")
                 else:
                     log.write(f"Message failed to {s.region} {s.name} at {timeStamp}\n")
 
-        time.sleep(60)
+        time.sleep(450)
